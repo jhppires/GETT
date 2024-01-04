@@ -1,10 +1,6 @@
-# Manual do SAP (Sociedade de associação de pessoas)
-
 ## Criação de Personagem
 
-- [ ] Ajustas Flavor 
-
-*A GUILDA DO TUC* contrata apenas pessoas que já possuam certa experiência, toda personagem que ingressa na GUILDA começa no terceiro nível (ND 3). A distribuição de atributos é feita através do método de geração por pontos presente no livro base (Tormenta20, pg 18). Para maior facilidade, recomenda-se utilizar a calculadora de atributo disponível no site Calculadora de Pontos Tormenta 20, obedecendo-se o valor mínimo de -1 e máximo de 4 pontos em cada atributo. A ficha a ser utilizada na guilda é disponibilizada no canal . Outros modelos não serão aceitos.
+*GUILDA EMPREENDIMENTOS TUC-TUC* (GETT)  contrata apenas pessoas que já possuam certa experiência, toda personagem que ingressa na GUILDA começa no primeiro Nível. A distribuição de atributos é feita através do método de geração por pontos presente no livro base (Tormenta20, pg 18). Obedecendo-se o valor mínimo de -2 e máximo de 5 pontos em cada atributo. A ficha a ser utilizada na guilda é disponibilizada no canal CeA. Outros modelos não serão aceitos.
 
 ### Equipamento
 
@@ -12,7 +8,7 @@ Personagens começam com os seguintes itens: Aqueles descritos no capítulo de e
 
 ### Histórico 
 
-Personagens não são um conjunto de números usados para rolar dados, e devem possuir uma história prévia que conta como se tornou quem é. Fichas com antecedentes rasos, incoerentes, ou sem história, não serão aceitas. Personagens com temas explícitos, como abuso, serão igualmente recusadas na guilda.
+Personagens não são um conjunto de números usados para rolar dados, e devem possuir uma história prévia que conta como se tornou quem é. Fichas com antecedentes rasos, incoerentes, ou sem história, não serão aceitas. Personagens com temas explícitos, como abuso, serão igualmente recusadas na GUILDA.
 
 ### Avaliação de ficha
 
@@ -20,11 +16,9 @@ Ao terminar de criar a ficha, deve-se postá-la no canal **Cartão de Aventureir
 	"Vc vai passar na triagem, vai falar com CO'Piloti para ele te adicionar no sistema do SAP"
 
 ### Materiais de consulta
+LEIA O LIVRO! O principal material utilizado na GUILDA é o livro básico de TORMENTA20 (que pode ser obtido de forma digital ou física através do site da Jambô Editora). 
 
-![[Pasted image 20240102170859.png]]
-LEIA O LIVRO! O principal material utilizado na guilda é o livro básico de TORMENTA20 (que pode ser obtido de forma digital ou física através do site da Jambô Editora). Não compactuamos com pirataria, e o compartilhamento de links para downloads ilegais e arquivos é passível de banimento. 
-
-Apesar do livro básico ser a principal fonte, alguns materiais extras são permitidos na guilda. Qualquer material lançado, em livro ou revista, será previamente avaliado pela administração do servidor antes de ser liberado. Apenas serão aceitos materiais especificados nas regras da guilda, caso algum material não esteja incluído aqui, significa que não é aceito. Os materiais extras podem ser encontrados clicando aqui. Sempre que um material novo for aceito, ele irá ser anunciado no canal **Divulgações**, e registrado na tabela logo abaixo.
+Apesar do livro básico ser a principal fonte, alguns materiais extras são permitidos na GUILDA. Qualquer material lançado, em livro ou revista, será previamente avaliado pela administração do servidor antes de ser liberado. Apenas serão aceitos materiais especificados nas regras da GUILDA, caso algum material não esteja incluído aqui, significa que não é aceito. Os materiais extras podem ser encontrados clicando aqui. Sempre que um material novo for aceito, ele irá ser anunciado no canal **Divulgações**, e registrado na tabela logo abaixo.
 
 | Material | Fonte | Nota |
 | ---- | ---- | ---- |
@@ -88,7 +82,7 @@ Tanto Narradore como Narradore Aprendiz podem receber recompensas por cada miss�
 Por exemplo, a pessoa narradora que possui uma personagem 10° nível receberá 2600 XP, 1500 T$ e 1 PdN, independentemente do ND da missão narrada. Podendo, também, abdicar de toda ou parte de sua recompensa caso deseje.
 
 ## Itens e Comércio
-Há várias maneiras de comprar, receber e encontrar itens participando da GUILDA DE , desde itens comuns à superiores. Comprando de NPCs, fazendo buscas e até encomendando de PJs. Itens comuns da Tabela T3-5: Itens e Serviços, presentes no livro básico de TORMENTA20, podem ser comprados livremente nos mercados da cidade. Sendo necessário apenas registrar as transações no canal **Varejos Renner**. Itens Superiores, com um ou mais aprimoramentos, só podem ser construídos por Membres da Guilda que possua a perícia Ofício adequada, ou obtidos em buscas. Apenas itens presentes no capítulo de equipamentos podem ser aprimorados. O aprimoramento deve fazer sentido com o item, sujeito à aprovação da administração. Itens Mágicos só podem ser obtidos através da mecânica de buscas, explicada mais a frente nesse manual.
+Há várias maneiras de comprar, receber e encontrar itens participando da GETT , desde itens comuns à superiores. Comprando de NPCs, fazendo buscas e até encomendando de PJs. Itens comuns da Tabela T3-5: Itens e Serviços, presentes no livro básico de TORMENTA20, podem ser comprados livremente nos mercados da cidade. Sendo necessário apenas registrar as transações no canal **Varejos Renner**. Itens Superiores, com um ou mais aprimoramentos, só podem ser construídos por Membres da Guilda que possua a perícia Ofício adequada, ou obtidos em buscas. Apenas itens presentes no capítulo de equipamentos podem ser aprimorados. O aprimoramento deve fazer sentido com o item, sujeito à aprovação da administração. Itens Mágicos só podem ser obtidos através da mecânica de buscas, explicada mais a frente nesse manual.
 
 ### Comercio entre jogadories
 
@@ -107,10 +101,10 @@ Limites do MERCADO Existe uma vastidão de itens que personagens podem fabricar.
 Por exemplo, uma PJ de 5° nível pode comprar poções de 1° e 2° circulo, mas não de 3° circulo. Vendas Vetadas – As poções e pergaminhos que simulam as magias Servo Morto-Vivo, Segunda Chance, Controlar o Tempo, Desejo e Intervenção Divina não podem ser comercializadas, mas podem ser feitas para uso pessoal. A menos que dito o contrário, a compra de conjurações por outros arcanistas está limitada a magias sem aprimoramento. Pergaminhos – Apenas Magos podem comprar pergaminhos, de até 3°círculo, diretamente de NPCs, entretanto devem gastar 1 PeA por pergaminho desejado. Pergaminhos de quarto e quinto círculo só podem ser comprados de Membres da Guilda. Personagens não Magos podem comprar pergaminhos de outras PJs.
 
 ## Morte
-O nível de dificuldade das missões pode variar, e não é impossível perder uma personagem por falta de preparo ou simples azar nos dados. Para amenizar a frustração da perda inesperada, toda morte é auditada pela administração e foram criadas as seguintes regras: 
+O nível de dificuldade das missões pode variar, e não é impossível perder uma personagem por falta de preparo ou simples azar nos dados. Para amenizar a frustração da perda inesperada, toda morte é auditada pela administração e foram criadas as seguintes regras:
 ### Segunda chance de thyatis 
 
-Caso haja morte, e o restante do grupo consiga recuperar o corpo da personagem para levá-la de volta à GUILDA, no fim da missão, ela poderá ser revivida por um NPC clérigo de Thyatis. Essa ressurreição não causa alguma penalidade a PJ, mas esse benefício só pode ser utilizado uma única vez por personagem.
+Caso haja morte, e o restante do grupo consiga recuperar o corpo da personagem para levá-la de volta à GUILDA, no fim da missão, ela poderá ser revivida por um NPC clérigo de Thyatis. Essa ressurreição não causa alguma penalidade a PJ, mas esse benefício só pode ser utilizado uma única vez por personagem e precisa que o grupo restante faça uma missão para a igreja de Thyatis.
 
 ### Auditoria
 
@@ -119,6 +113,13 @@ Sempre que um personagem morrer e, por qualquer motivo, o PJ achar que foi injus
 **MÁ-FÉ DE ALGUMA FORMA**, de qualquer uma das partes, Pessoas Jogadoras ou Narradoras; 
 
 **ALGUMA INTERPRETAÇÃO ERRÔNEA DE REGRA** ou bônus que mudaria a cena. Para isso, é importante que fichas e rolagens estejam disponíveis para revisão.
+
+Se nada puder ser feito, e seu personagem ainda for dado como morto, você pode criar um outro personagem e passar por todos os processos descritos na **Criação de Personagem**, contudo assim como seu personagem evoluiu você evoluiu junto. 
+Personagens novos serão criados com um nível abaixo daquele que foi perdido, recebendo o dinheiro do respectivo nível. 
+Esses personagem tecnicamente ainda não foram aprovados na GUILDA, por isso não podem usar  o **Varejo Renner** até terem sua ficha plenamente aprovada.
+### Aposentadoria 
+
+Os PJs podem decidir aposentar um personagem que não queriam mais jogar, contudo, todos os itens, dinheiro e PeA que forem acumulados por ele são perdidos. Além disso, aposentadoria conta como uma morte para termos de criação de novas fichas.
 
 ## Regras Adicionais
 
@@ -135,7 +136,7 @@ Bravatas (Audaz e Imprudente) – Personagens que cumpram uma bravata na cena fi
 
 ### Invetor
 
-Engenhoqueiro – Personagens que adquiram esse poder na criação de personagem podem começar com uma engenhoca, pagando seu custo de fabricação. Engenhocas extras devem ser feitas utilizando PeA, seguindo as regras de fabricação da guilda.
+Engenhoqueiro – Personagens que adquiram esse poder na criação de personagem podem começar com uma engenhoca, pagando seu custo de fabricação. Engenhocas extras devem ser feitas utilizando PeA, seguindo as regras de fabricação da GETT.
 
 ### Paladino
 
@@ -184,7 +185,7 @@ Personagens de Nível 5 ou maior que almejem uma distinção devem entrar em con
 - Nome do Personagem: 
 -  Como a distinção casa com a história do personagem: 
 
-Personagens aprovados poderão cumprir os pré requisitos adaptados para a Guilda, lembrando que os pré requisitos normais inclusos no doc ainda precisam ser cumpridos. 
+Personagens aprovados poderão cumprir os pré requisitos adaptados para a GUILDA, lembrando que os pré requisitos normais inclusos no doc ainda precisam ser cumpridos. 
 
 Poderes de Distinção que tenham pré requisitos de RP (como matar um lefeu de ND 15 +, Usar perícia de cura com um valor 30+ em pelo menos 3 pessoas, etc) devem ser contabilizados pela pessoa, e encaminhados a adm com a missão que aconteceu e o mestre que estava na missão, para que possamos confirmar com o mestre da mesma que ele foi cumprido. 
 
@@ -209,7 +210,7 @@ Distinções com um  asterisco em seus nomes indicam distinções que precisam q
 | Xerife de Azgher | - Ser bem sucedido em uma missão que termine em prender um criminoso notório <br>- Ser bem sucedido em 2 buscas, que representam o sonho e a viagem <br>- 1 missão onde o personagem será acompanhado por um xerife de azgher <br>- Oferenda de itens ou T$ no valor do Sol Vigilante. |
 |  |  |
 ## Buscas
-Buscas são pequenas “missões pessoais”, feitas por PJs que almejam algo que não pode ser obtido normalmente. Uma personagem faz a busca quando quer tesouros ou itens que não podem ser comprados por meio do comércio ou missões comuns. Para maior definição e regras detalhadas de buscas, leia a página 264 do livro básico de TORMENTA20. A seguir serão listadas apenas as informações sobre como realizar buscas na GUILDA DE .
+Buscas são pequenas “missões pessoais”, feitas por PJs que almejam algo que não pode ser obtido normalmente. Uma personagem faz a busca quando quer tesouros ou itens que não podem ser comprados por meio do comércio ou missões comuns. Para maior definição e regras detalhadas de buscas, leia a página 264 do livro básico de TORMENTA20. A seguir serão listadas apenas as informações sobre como realizar buscas na GETT .
 
 ### Como fazer uma busca
 
@@ -228,7 +229,7 @@ Habilidades que possuem condições ou custos de ativação não podem ser utili
 Não há limite definido de quantas buscas cada personagem pode fazer de uma vez, sendo limitadas apenas pela disponibilidade da PN continuar narrando e quantidade de PeAs possuído pela PJ
 
 ### Buscas por Riquezas ou Tesouros
-As recompensas de buscas podem ser itens ou dinheiro, mas devem sempre ser relativas ao nível de personagem que fez a busca. Caso a recompensa seja dinheiro ou itens, ela deve ser definida aleatoriamente de acordo com a tabela presente na sessão Tesouros do capítulo de Recompensas do livro base de TORMENTA20 (pg 314). Note que na guilda, as buscas são sua única forma de obter tesouros além dos pagamentos das missões, devido a isso não é possível ficar sem recompensa por uma busca bem sucedida. Caso role um valor que não possua uma recompensa na tabela, a PJ deve rolar o dado quantas vezes for necessário, até que receba algo.
+As recompensas de buscas podem ser itens ou dinheiro, mas devem sempre ser relativas ao nível de personagem que fez a busca. Caso a recompensa seja dinheiro ou itens, ela deve ser definida aleatoriamente de acordo com a tabela presente na sessão Tesouros do capítulo de Recompensas do livro base de TORMENTA20 (pg 314). Note que na GUILDA, as buscas são sua única forma de obter tesouros além dos pagamentos das missões, devido a isso não é possível ficar sem recompensa por uma busca bem sucedida. Caso role um valor que não possua uma recompensa na tabela, a PJ deve rolar o dado quantas vezes for necessário, até que receba algo.
 
 #### Sobre Favores e Informações
 Durante suas buscas você pode encontrar bônus como recompensas extras, esses bônus são os Favores e as Informações. Eles são efeitos consumíveis que podem te dar vantagens durante uma busca a sua escolha: 
@@ -237,14 +238,14 @@ Durante suas buscas você pode encontrar bônus como recompensas extras, esses b
 
 ### Buscas por inventores
 
-Algumas vezes, a PJ deseja modificar um de seus itens (ou comprar um novo item superior) mas não há inventor disponível na guilda. Nesse caso, pode fazer uma busca para encontrar um Inventor que realize o serviço. A busca seguirá as mesmas regras de uma busca convencional, mas em caso de sucesso, encontrará alguém disposto a fazer o serviço desejado. Nesse caso, irá obter exatamente o item que buscava, mas deve pagar o preço completo pelo serviço.
+Algumas vezes, a PJ deseja modificar um de seus itens (ou comprar um novo item superior) mas não há inventor disponível na GUILDA. Nesse caso, pode fazer uma busca para encontrar um Inventor que realize o serviço. A busca seguirá as mesmas regras de uma busca convencional, mas em caso de sucesso, encontrará alguém disposto a fazer o serviço desejado. Nesse caso, irá obter exatamente o item que buscava, mas deve pagar o preço completo pelo serviço.
 
 ### Buscas por poções e Pergaminhos
 
 PJs que queiram obter poções ou pergaminhos podem gastar seus PeA para fazer uma busca por esses itens. No caso de poções, apenas informa sua intenção, e em caso de sucesso na busca pode escolher três poções dentre as opções da Tabela 8-13: Poções, (pg 327 do livro base). Para pergaminhos, também faz a busca normalmente e obtém um total de 3 pergaminhos em caso de sucesso, eles podem ser de qualquer magia (arcana ou divina) de até 3º círculo. Em ambos os casos, deve-se pagar pelos itens obtidos, no valor de seu preço total.
 
 ### Busca por itens Mágicos
-Em mesas convencionais, itens mágicos são controlados pela PN e fornecidos conforme ela desejar. Na guilda isso não ocorre, restando apenas as opções de serem fabricados por um Cambista ou encontrados em buscas. Para manter o equilíbrio, as buscas por itens mágicos seguem regras específicas. Para buscar um item mágico, deve-se informar exatamente que item busca para a pessoa responsável e obter uma série de sucessos, de acordo com o nível do item. Itens mágicos são raridade em Arton, sendo necessárias várias buscas para encontrar um exemplar. Além disso, os itens obtidos através de buscas devem ser pagos pela PJ em seu preço inteiro bem como um custo de PMs permanentes de acordo com o nível do item, conforme indicado na Tabela T1-3.
+Em mesas convencionais, itens mágicos são controlados pela PN e fornecidos conforme ela desejar. Na GUILDA isso não ocorre, restando apenas as opções de serem fabricados por um Cambista ou encontrados em buscas. Para manter o equilíbrio, as buscas por itens mágicos seguem regras específicas. Para buscar um item mágico, deve-se informar exatamente que item busca para a pessoa responsável e obter uma série de sucessos, de acordo com o nível do item. Itens mágicos são raridade em Arton, sendo necessárias várias buscas para encontrar um exemplar. Além disso, os itens obtidos através de buscas devem ser pagos pela PJ em seu preço inteiro bem como um custo de PMs permanentes de acordo com o nível do item, conforme indicado na Tabela T1-3.
 
 | Item | Nível Mínimo de Jogador | Quantidade de Sucessos | Custo de PM |
 | ---- | ---- | ---- | ---- |
@@ -264,14 +265,14 @@ Algumas vezes, a personagem não consegue obter o item mágico ou encantado que 
 
 Algumas pessoas gostam de se manter quietas em cidades, constroem famílias e lares, enquanto outras podem querer criar negócios, uma forma de obter lucro além de suas aventuras. Personagens que ficam o tempo todo em suas tavernas, oficinas ou lojas não são apropriadas como PJs pois dificilmente sairão em aventuras. Contudo, podem ter um negócio qualquer, que é administrado por pessoas contratadas ou familiares, e que apenas supervisiona quando não se enfurna em alguma masmorra. 
 
-Esses negócios podem ser de todo tipo, de estalagens a laboratórios alquímicos ou mesmo escolas de esgrima. O que importa é que sejam permanentes, lucrativos e que funcionem como fonte de complicações, aventuras e satisfação. Em termos de regras, negócios são estruturas que sua personagem possuí que fornecem alguns bônus extras em sua ficha. A seguir serão listadas regras de como ume personagem da guilda de Eva pode abrir e gerenciar seus negócios, além de uma lista de negócios disponíveis.
+Esses negócios podem ser de todo tipo, de estalagens a laboratórios alquímicos ou mesmo escolas de esgrima. O que importa é que sejam permanentes, lucrativos e que funcionem como fonte de complicações, aventuras e satisfação. Em termos de regras, negócios são estruturas que sua personagem possuí que fornecem alguns bônus extras em sua ficha. A seguir serão listadas regras de como um personagem da GETT pode abrir e gerenciar seus negócios, além de uma lista de negócios disponíveis.
 
 
 ### Abrindo um Negócio
 
 Para abrir um negócio, a PJ deve entrar em contato com uma das Divindades, justificando os motivos que levaram a querer abrir um empreendimento e porquê sua personagem teria um negócio. Nesse ponto, é importante contar uma história! Além de poderosos bonus numéricos, negócios precisam ter uma relação com o personagem em si, e negócios sem esse desenvolvimento não serão aprovados. Caso sua justificativa seja válida, a responsável lhe dará aprovação para executar os testes. 
 
-Com a aprovação, a PJ deve se encaminhar à sala #comércio e fazer um teste de Nobreza, pagando 1000 T$ e 2 PeA. Isso representa o tempo e trabalho necessários para reunir toda a papelada e resolver a burocracia que o reinado pede para permitir a atuação de sua nova empresa. O teste possui CD20, e em caso de falha pode-se tentar novamente quantas vezes desejar, pagando 1000T$ e 1PeA adicionais, porém possuirá um bônus cumulativo de +1 no teste. Para cada falha anterior, o bônus é zerado após a obtenção de sucesso. 
+Com a aprovação, a PJ deve se encaminhar à sala Varejos Renner e fazer um teste de Nobreza, pagando 1000 T$ e 2 PeA. Isso representa o tempo e trabalho necessários para reunir toda a papelada e resolver a burocracia que o reinado pede para permitir a atuação de sua nova empresa. O teste possui CD20, e em caso de falha pode-se tentar novamente quantas vezes desejar, pagando 1000T$ e 1PeA adicionais, porém possuirá um bônus cumulativo de +1 no teste. Para cada falha anterior, o bônus é zerado após a obtenção de sucesso. 
 
 Não é necessário ser treinado em Nobreza para abrir um negócio, a personagem pode contratar alguém para assumir essa função, permitindo que faça o teste como se fosse treinado (incluindo o bônus de treino). 
 
