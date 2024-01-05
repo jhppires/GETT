@@ -389,8 +389,12 @@ Independente de ser uma atualização ou uma ficha nova, é necessário colocar 
 Ficha sempre em formato de PDF.
 
 **Nome do Jogador:**
+
 **Nome do Personagem:**
+
 **Nível:**
+
 **Modificações:** Se for uma ficha nova coloque NOVA FICHA, se for uma atualização coloque ATUALIZAÇÃO e o que foi atualizado.
+
 *Ficha e Imagem*
 
