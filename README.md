@@ -6,7 +6,7 @@
 
 ### Equipamento
 
-Personagens começam com os seguintes itens: Aqueles descritos no capítulo de equipamentos do livro base **(Tormenta20, pg 138)**, itens concedidos por sua origem e **4d6T$**. O dinheiro inicial pode ser usado para comprar qualquer item descrito livro base. Também é permitido utilizar esse dinheiro para colocar uma modificação em um, e apenas um, item que a personagem possua, sendo ele comprado ou obtido por outras fontes, mas pagando-se o preço da modificação de 300T$.
+Personagens começam com os seguintes itens: Aqueles descritos no capítulo de equipamentos do livro base **(Tormenta20, pg 138)**, itens concedidos por sua origem e **15T$**. O dinheiro inicial pode ser usado para comprar qualquer item descrito livro base. Também é permitido utilizar esse dinheiro para colocar uma modificação em um, e apenas um, item que a personagem possua, sendo ele comprado ou obtido por outras fontes, mas pagando-se o preço da modificação de 300T$.
 
 ### Histórico 
 
@@ -15,10 +15,13 @@ Personagens não são um conjunto de números usados para rolar dados, e devem p
 ### Avaliação de ficha
 
 Ao terminar de criar a ficha, deve-se postá-la no canal **Cartão de Aventureiro (CeA)** junto da compra de atributos, e aguardar pelo balanceamento das Divindades. Após a correção, a pessoa responsável por ela entrará em contato com a Pessoa Jogadora (PJ), e informará de erros ou, na inexistência destes confirmar sua aprovação. Poderes que dependem da aprovação da Pessoa Narradora (PN) devem ser discutidos previamente com uma Divindade para aprovação. Após a confirmação da aprovação, a PJ receberá o cargo de *Tibario* e terá acesso aos outros canais do servidor, podendo interagir e pegar missões.
+
 	"Vc vai passar na triagem, vai falar com CO'Piloti para ele te adicionar no sistema do SAP"
 
 ### Materiais de consulta
-LEIA O LIVRO! O principal material utilizado na GUILDA é o livro básico de TORMENTA20 (que pode ser obtido de forma digital ou física através do site da Jambô Editora). 
+**LEIA O LIVRO!** O principal material utilizado na GUILDA é o livro básico de TORMENTA20 (que pode ser obtido de forma digital ou física através do site da Jambô Editora). 
+
+![](img/timMaia.png)
 
 Apesar do livro básico ser a principal fonte, alguns materiais extras são permitidos na GUILDA. Qualquer material lançado, em livro ou revista, será previamente avaliado pela administração do servidor antes de ser liberado. Apenas serão aceitos materiais especificados nas regras da GUILDA, caso algum material não esteja incluído aqui, significa que não é aceito. Os materiais extras podem ser encontrados clicando aqui. Sempre que um material novo for aceito, ele irá ser anunciado no canal **Divulgações**, e registrado na tabela logo abaixo.
 
@@ -56,11 +59,11 @@ PJs que desejam narrar devem então entrar em contato com uma **Divindade**, inf
 
 ### Utilizando o Canon
 
-Não mexa no Canon. Contudo, aventuras épicas de nivel 17+ podem fazer alterações pela sua fama descomunal, mas isso necessita da aprovação dos moderadores.
+Não mexa no Canon. Contudo, aventuras de nivel campeão ou maior (nivel 11 ou maior) podem fazer alterações pela sua fama descomunal, mas isso necessita da aprovação dos moderadores.
 
 ### Recompensa
 
-Cada missão concede recompensas em Pontos de experiência e tibares, a moeda de Arton (XP e T$, respectivamente), de acordo com seu nível de desafio. Dependendo da dificuldade, cada PN pode fornecer recompensas adicionais, até um limite de 20% da recompensa original, conforme a tabela 1-1: Recompensas. Além da experiência e do dinheiro, Narradories recebem 1 Ponto de Narração (PdNs) a cada missão concluída. 
+Cada missão concede recompensas em Pontos de experiência, tibares (moeda de Arton) e itens, de acordo com seu nível de desafio. Esses espólios são obtidos através de um baú de tesouro ao final de cada missão na GUILDA, esses são baús especiais produzido ou não por Renner. Dependendo da dificuldade, cada PN pode fornecer recompensas adicionais, até um limite de 20% da recompensa original, conforme a tabela 1-1: Recompensas e de acordo com o ND declarado previamente para a missão, DEIXANDO CLARO O GRUPO GANHA 1 BAÚ DO ND DA MISSÃO, tudo que sair é divido igualmente. Além da experiência e do dinheiro, Narradories recebem 1 Ponto de Narração (PdNs) a cada missão concluída. 
 
 Os PdNs podem ser gastos na nossa Lojas dos Narradores da seguinte forma:
 
@@ -83,8 +86,11 @@ A ficha atualizada com os valores de XP e T$ deve ser enviada em CeA. PJs de ND 
 Tanto Narradore como Narradore Aprendiz podem receber recompensas por cada missão narrada, como forma de agradecimento por proporcionar diversão para Membres da Guilda. Ao término de uma missão, a PN recebe recompensas equivalentes a ter jogado uma missão de ND igual ao seu nível de personagem, sem qualquer acréscimo. 
 Por exemplo, a pessoa narradora que possui uma personagem 10° nível receberá 2600 XP, 1500 T$ e 1 PdN, independentemente do ND da missão narrada. Podendo, também, abdicar de toda ou parte de sua recompensa caso deseje.
 
+### Decidindo o que é de quem
+Dinheiro e XP é distribuido igualmente, independente de quem fez o que. Itens são decididos entre os jogadores, contudo senão houver consenso os jogadores que o querem irão jogar um D20, aquele com o valor mais alto fica com item (o dado deve ser rejogado em caso de empate). Itens que não forem decididos serão vendidos e o dinheiro dividido igualmente entre os jogadores.
+
 ## Itens e Comércio
-Há várias maneiras de comprar, receber e encontrar itens participando da GETT , desde itens comuns à superiores. Comprando de NPCs, fazendo buscas e até encomendando de PJs. Itens comuns da Tabela T3-5: Itens e Serviços, presentes no livro básico de TORMENTA20, podem ser comprados livremente nos mercados da cidade. Sendo necessário apenas registrar as transações no canal **Varejos Renner**. Itens Superiores, com um ou mais aprimoramentos, só podem ser construídos por Membres da Guilda que possua a perícia Ofício adequada, ou obtidos em buscas. Apenas itens presentes no capítulo de equipamentos podem ser aprimorados. O aprimoramento deve fazer sentido com o item, sujeito à aprovação da administração. Itens Mágicos só podem ser obtidos através da mecânica de buscas, explicada mais a frente nesse manual.
+Há várias maneiras de comprar, receber e encontrar itens participando da GETT , desde itens comuns à superiores. Comprando de NPCs, fazendo buscas e até encomendando de PJs. Itens comuns da Tabela T3-5: Itens e Serviços, presentes no livro básico de TORMENTA20, podem ser comprados livremente nos mercados da cidade. Sendo necessário apenas registrar as transações no canal **Varejos Renner**. Itens Superiores, com um ou mais aprimoramentos, podem ser construídos por Membres da Guilda que possua a perícia Ofício adequada, obtidos em buscas ou em como recompensas rolados na tabela de Tesouro T8-1 (e subsequentes rolamentos). Apenas itens presentes no capítulo de equipamentos podem ser aprimorados. O aprimoramento deve fazer sentido com o item, sujeito à aprovação da administração. Itens Mágicos só podem ser obtidos através da mecânica de buscas, explicada mais a frente nesse manual.
 
 ### Comercio entre jogadories
 
@@ -104,9 +110,12 @@ Por exemplo, uma PJ de 5° nível pode comprar poções de 1° e 2° circulo, ma
 
 ## Morte
 O nível de dificuldade das missões pode variar, e não é impossível perder uma personagem por falta de preparo ou simples azar nos dados. Para amenizar a frustração da perda inesperada, toda morte é auditada pela administração e foram criadas as seguintes regras:
-### Segunda chance de thyatis 
+### Segunda chance de Thyatis 
 
 Caso haja morte, e o restante do grupo consiga recuperar o corpo da personagem para levá-la de volta à GUILDA, no fim da missão, ela poderá ser revivida por um NPC clérigo de Thyatis. Essa ressurreição não causa alguma penalidade a PJ, mas esse benefício só pode ser utilizado uma única vez por personagem e precisa que o grupo restante faça uma missão para a igreja de Thyatis.
+
+### Personagens que revivem
+Paladinos de Thyatis, Ostens e Golens tecnicamente não morrem, apenas ficam um tempo inativos. Contudo eles devem ser levados de volta a guilda para ficarem inativos, se forem deixados para trás eles serão dados como mortos.
 
 ### Auditoria
 
@@ -210,7 +219,7 @@ Distinções com um  asterisco em seus nomes indicam distinções que precisam q
 | Presa de Coral | - Realizar uma missão relacionada aos Presas <br>- Ser bem sucedido em 2 buscas relacionadas ao treino <br>- Realizar uma missão para Benthos com o ritual no fim (Sangue de Dragão Rei deve ser obrigatoriamente ingerido) |
 | Vigilante Mascarado | - O personagem deve realizar 1 RP sobre seus desejos internos <br>- Usar um traje ou armadura com 2 modificações, dentro do seu 'tema'. <br>- Ser bem sucedido em uma Busca sobre sua 'manobra secreta' <br>- 1 missão com seu traje |
 | Xerife de Azgher | - Ser bem sucedido em uma missão que termine em prender um criminoso notório <br>- Ser bem sucedido em 2 buscas, que representam o sonho e a viagem <br>- 1 missão onde o personagem será acompanhado por um xerife de azgher <br>- Oferenda de itens ou T$ no valor do Sol Vigilante. |
-|  |  |
+
 ## Buscas
 Buscas são pequenas “missões pessoais”, feitas por PJs que almejam algo que não pode ser obtido normalmente. Uma personagem faz a busca quando quer tesouros ou itens que não podem ser comprados por meio do comércio ou missões comuns. Para maior definição e regras detalhadas de buscas, leia a página 264 do livro básico de TORMENTA20. A seguir serão listadas apenas as informações sobre como realizar buscas na GETT .
 
@@ -323,3 +332,54 @@ Uma personagem que deseje trocar um ativo antigo deve gastar 1 PeA e um valor ig
 | Salão Comunal | Um grande salão, com mesas e cadeiras para beber e comemorar. Reúne todo tipo de gente e o burburinho das pessoas camufla as conversas que devem ser feitas em sussurros. | +2 em Investigação. |
 | Salão de Marah | Marah é a Deusa do Amor - e é justamente isso que os lugares que levam seu nome oferecem (ou é pelo menos o simulacro que pode ser comprado). Uma visita a um desses salões deixa qualquer aventureire mais disposte para aventuras. | 4PM temporários no início de cada missão. |
 | Santuário | Este lugar sagrado permite que ume devote entre em comunhão com sua divindade, aumentando seu vínculo com ela. | +2 em Religião. |
+
+
+
+# Mensagens Padrões
+## Solicitação de Missão
+
+### Jogador
+**Nome de quem está solicitando:** Seu nome aqui
+
+**ND da missão**: Lembre que a ND varia um nivel para baixo e um para cima, logo ND 4 pega personagens nivel 3, 4 e 5
+
+**Horário da missão**: Algumas pessoas tem horários complicados, por isso é bom descrever aqui
+
+**Motivo**: Pode ser uma sinopse do que você gostaria que mestrassem pra você, pode ser só por você não estar conseguindo mesas, ou por querer algo em especifico! Esse campo é bem aberto!
+
+### Mestre
+Adicionar uma imagem ajuda a chamar atenção, mas não é obrigatório.
+
+**Nome da missão:** 
+**Mestre:**
+**Nível de Desafio:**
+
+**Nível de Personagem:**
+**Data e Hora:**
+**Estilo de Jogo:**
+
+**Enredo:** 
+
+**Vagas:**
+**Sala de Jogo:**
+
+**Possiveis Gatilhos:**
+**Regras Especiais:**
+
+## Vendendo itens
+Tem que atualizar quando terminar o processo de compra ou venda se for necessário. 
+
+**Qual item:** Coloca o nome do item aprimoramentos e encantamentos.
+
+**Quanto:** Colocar o valor entre 75% ou 100% do valor.
+
+**Quem comprou:** Se for NPC coloca NPC e o nome dele, se for PJ coloca o nome do PJ e do Personagem dele.
+
+## Comprando itens
+Pode colocar uma lista de itens, mas deve dicernir o que é o que, e colocar o preço de cada um na ordem que estão listado.
+
+**Quem vendeu:** Se for NPC coloca NPC e o nome dele, se for PJ coloca o nome do PJ e do Personagem dele.
+
+**Qual item:** Coloca o nome do item.
+
+**Quanto pagou:** Coloca o valor que você pagou.
