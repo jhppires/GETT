@@ -367,7 +367,7 @@ Adicionar uma imagem ajuda a chamar atenção, mas não é obrigatório.
 **Regras Especiais:**
 
 ## Vendendo itens
-Tem que atualizar quando terminar o processo de compra ou venda se for necessário. 
+Tem que atualizar quando terminar o processo de compra ou venda se for necessário. E pode adicionar qualquer flavor e imagem que quiser desde que seja respeitosa e adequada.
 
 **Qual item:** Coloca o nome do item aprimoramentos e encantamentos.
 
@@ -376,10 +376,20 @@ Tem que atualizar quando terminar o processo de compra ou venda se for necessár
 **Quem comprou:** Se for NPC coloca NPC e o nome dele, se for PJ coloca o nome do PJ e do Personagem dele.
 
 ## Comprando itens
-Pode colocar uma lista de itens, mas deve dicernir o que é o que, e colocar o preço de cada um na ordem que estão listado.
+Pode colocar uma lista de itens, mas deve dicernir o que é o que, e colocar o preço de cada um na ordem que estão listado.E pode adicionar qualquer flavor e imagem que quiser desde que seja respeitosa e adequada.
 
 **Quem vendeu:** Se for NPC coloca NPC e o nome dele, se for PJ coloca o nome do PJ e do Personagem dele.
 
 **Qual item:** Coloca o nome do item.
 
 **Quanto pagou:** Coloca o valor que você pagou.
+
+## Fichas de Personagens
+Independente de ser uma atualização ou uma ficha nova, é necessário colocar o nome do personagem, nível e a imagem (pode ser o token ou a arte do personagem). 
+Ficha sempre em formato de PDF.
+
+**Nome do Jogador:**
+**Nome do Personagem:**
+**Nível:**
+**Modificações:** Se for uma ficha nova coloque NOVA FICHA, se for uma atualização coloque ATUALIZAÇÃO e o que foi atualizado.
+*Ficha e Imagem*
