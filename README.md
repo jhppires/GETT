@@ -4,6 +4,8 @@
 
 *GUILDA EMPREENDIMENTOS TUC-TUC* (GETT)  esta com vagas abertas de Trainee para aventureiros, tode personagem que ingressa na GUILDA começa no primeiro Nível. A distribuição de atributos é feita através do método de geração por pontos presente no livro base (Tormenta20, pg 18). Obedecendo-se o valor mínimo de -2 e máximo de 6 pontos em cada atributo. A ficha a ser utilizada na guilda é disponibilizada no canal CeA. Outros modelos não serão aceitos.
 
+	"Gett good com a Guilda Empreendimentos Tuc-Tuc"
+
 ### Equipamento
 
 Personagens começam com os seguintes itens: Aqueles descritos no capítulo de equipamentos do livro base **(Tormenta20, pg 138)**, itens concedidos por sua origem e **15T$**. O dinheiro inicial pode ser usado para comprar qualquer item descrito livro base. Também é permitido utilizar esse dinheiro para colocar uma modificação em um, e apenas um, item que a personagem possua, sendo ele comprado ou obtido por outras fontes, mas pagando-se o preço da modificação de 300T$.
