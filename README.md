@@ -14,7 +14,7 @@ Personagens não são um conjunto de números usados para rolar dados, e devem p
 
 ### Avaliação de ficha
 
-Ao terminar de criar a ficha, deve-se postá-la no canal **Cartão de Aventureiro (CeA)** junto da compra de atributos, e aguardar pelo balanceamento das Divindades. Após a correção, a pessoa responsável por ela entrará em contato com a Pessoa Jogadora (PJ), e informará de erros ou, na inexistência destes confirmar sua aprovação. Poderes que dependem da aprovação da Pessoa Narradora (PN) devem ser discutidos previamente com uma Divindade para aprovação. Após a confirmação da aprovação, a PJ receberá o cargo de *Tibario* e terá acesso aos outros canais do servidor, podendo interagir e pegar missões.
+Ao terminar de criar a ficha, deve-se postá-la no canal **Cartão de Aventureiro (CeA)** junto da compra de atributos, e aguardar pelo balanceamento das Divindades. Após a correção, a pessoa responsável por ela entrará em contato com a Pessoa Jogadora (PJ), e informará de erros ou, na inexistência destes confirmar sua aprovação. Poderes que dependem da aprovação da Pessoa Narradora (PN) devem ser discutidos previamente com uma Divindade para aprovação. Após a confirmação da aprovação, a PJ receberá o cargo de *PJ* e terá acesso aos outros canais do servidor, podendo interagir e pegar missões.
 
 	"Vc vai passar na triagem, vai falar com CO'Piloti para ele te adicionar no sistema do SAP"
 
@@ -23,7 +23,7 @@ Ao terminar de criar a ficha, deve-se postá-la no canal **Cartão de Aventureir
 
 ![](img/timMaia.png)
 
-Apesar do livro básico ser a principal fonte, alguns materiais extras são permitidos na GUILDA. Qualquer material lançado, em livro ou revista, será previamente avaliado pela administração do servidor antes de ser liberado. Apenas serão aceitos materiais especificados nas regras da GUILDA, caso algum material não esteja incluído aqui, significa que não é aceito. Os materiais extras podem ser encontrados clicando aqui. Sempre que um material novo for aceito, ele irá ser anunciado no canal **Divulgações**, e registrado na tabela logo abaixo.
+Apesar do livro básico ser a principal fonte, alguns materiais extras são permitidos na GUILDA. Qualquer material lançado, em livro ou revista, será previamente avaliado pela administração do servidor antes de ser liberado no canal Anuncios do Panteão. Apenas serão aceitos materiais especificados nas regras da GUILDA, caso algum material não esteja incluído aqui, significa que não é aceito. Os materiais extras podem ser encontrados clicando aqui. Sempre que um material novo for aceito, ele irá ser anunciado no canal **Divulgações**, e registrado na tabela logo abaixo.
 
 | Material | Fonte | Nota |
 | ---- | ---- | ---- |
@@ -46,7 +46,7 @@ Arton é um mundo de problemas. Entretanto, também é um mundo de heróis. Para
 ## Regras de Missões
 Todas as missões devem conter de 3 a 5 Membres da Guilda ativamente jogando. Missões que não cumpram esse requisito não são elegíveis de recompensas, mas podem existir caso o intuito seja apenas uma interação interpretativa entre PJs. Todas as missões possuem um Nível de Desafio (ND) e só poderão participar da missão personagens que possuam no máximo 1 nível de diferença para o ND, uma missão de ND 5 permite jogadores de níveis 4 a 6, sendo a preferencia jogadores 1 nível a baixo. Elas serão postadas no canal **Guichê de Missões** por pessoas do cargo Narradores com no mínimo  um dia e no máximo 1 semana de antecedência em relação ao horário planejado. PJs que aspirem participar de uma missão devem entrar em contato direto com a pessoa que irá narrar, através de mensagem privada. Solicitações de vagas de outras formas não garantirão inclusão. 
 
-As missões são realizadas através de chamadas de voz e as rolagens de dados feitas através de seus respectivos canais de texto. Ninguém tem a obrigação de jogar com alguém que não queira, PNs possuem o direito de negar participação em suas mesas a quaisquer PJ indesejada.
+As missões são realizadas através de chamadas de voz e as rolagens de dados feitas através de seus respectivos canais de texto (se for utilizado uma outra plataforma os prints devem ser disponibilizados para auditoria). Ninguém tem a obrigação de jogar com alguém que não queira, PNs possuem o direito de negar participação em suas mesas a quaisquer PJ indesejada.
 
 ### Narradories
 
@@ -79,6 +79,14 @@ Os PdNs podem ser gastos na nossa Lojas dos Narradores da seguinte forma:
 | 1 PdN | Seu próximo craft de itens permanentes dura um mês. Não cumulativo com Funcionários. |
 
 A ficha atualizada com os valores de XP e T$ deve ser enviada em CeA. PJs de ND 20, entretanto, recebem 2 PeA, já que não possuem mais uso para o ganho de XP.
+
+### Pontos entre Aventuras
+
+Ninguém passa todo o seu tempo em aventuras, mas isso não quer dizer que não possa fazer algo em seu tempo livre. 
+Quando estão sem missões, PJs podem fazer uma infinidade de atividades, a maioria delas não afeta o jogo, porém algumas coisas podem ser feitas que alteram questões mecânicas. Numa mesa padrão de RPG, a PN é quem controla quanto tempo livre os personagens têm entre suas missões, isso não é possível em guilda, onde possuímos pessoas agindo de forma independente.
+Para resolvermos esse problema, foram criados os Pontos entre Aventuras (também chamados de PeA) que são uma espécie de “moeda” usada para realizar atividades fora de missões, *como treinos e buscas*. 
+Sempre que quiser realizar uma atividade importante fora de missões, **como treinos, retreinos, buscas ou fabricação de itens**, deve pagar um custo de PeA relativo ao tempo necessário para realizar aquela atividade.
+Atividades simples e meramente narrativas, como um diálogo, não exigem custo em PeA. Cada um equivale a 1 semana e qualquer uso deles deve ser registrado na ficha de personagem e publicado no canal CeA.
 
 ### Achados e Espólios
 
@@ -341,9 +349,11 @@ Uma personagem que deseje trocar um ativo antigo deve gastar 1 PeA e um valor ig
 ## Solicitação de Missão
 
 ### Jogador
+Essa solicitação deve ser feito no chat Mendigando Party.
+
 **Nome de quem está solicitando:** Seu nome aqui
 
-**ND da missão**: Lembre que a ND varia um nivel para baixo e um para cima, logo ND 4 pega personagens nivel 3, 4 e 5
+**Nivel do jogador**: 
 
 **Horário da missão**: Algumas pessoas tem horários complicados, por isso é bom descrever aqui
 
@@ -353,20 +363,25 @@ Uma personagem que deseje trocar um ativo antigo deve gastar 1 PeA e um valor ig
 Adicionar uma imagem ajuda a chamar atenção, mas não é obrigatório.
 
 **Nome da missão:** 
+
 **Mestre:**
+
 **Nível de Desafio:**
 
-**Nível de Personagem:**
 **Data e Hora:**
-**Estilo de Jogo:**
 
-**Enredo:** 
+**Estilo de Jogo:** O assunto principal da aventura, se é combate, investigação, exploração, etc.
+
+**Enredo:** Resumo enrendo da aventura, pode ser uma sinopse ou uma descrição mais detalhada.
 
 **Vagas:**
-**Sala de Jogo:**
+
+**Sala de Jogo:** Isso daqui vai ser criado pelas Divindades após a historia aprovada.
 
 **Possiveis Gatilhos:**
+
 **Regras Especiais:**
+
 
 ## Vendendo itens
 Tem que atualizar quando terminar o processo de compra ou venda se for necessário. E pode adicionar qualquer flavor e imagem que quiser desde que seja respeitosa e adequada.
@@ -385,6 +400,7 @@ Pode colocar uma lista de itens, mas deve dicernir o que é o que, e colocar o p
 **Qual item:** Coloca o nome do item.
 
 **Quanto pagou:** Coloca o valor que você pagou.
+
 
 ## Fichas de Personagens
 Independente de ser uma atualização ou uma ficha nova, é necessário colocar o nome do personagem, nível e a imagem (pode ser o token ou a arte do personagem). 
