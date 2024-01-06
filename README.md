@@ -2,7 +2,7 @@
 
 ## Criação de Personagem
 
-*GUILDA EMPREENDIMENTOS TUC-TUC* (GETT)  contrata apenas pessoas que já possuam certa experiência, toda personagem que ingressa na GUILDA começa no primeiro Nível. A distribuição de atributos é feita através do método de geração por pontos presente no livro base (Tormenta20, pg 18). Obedecendo-se o valor mínimo de -2 e máximo de 6 pontos em cada atributo. A ficha a ser utilizada na guilda é disponibilizada no canal CeA. Outros modelos não serão aceitos.
+*GUILDA EMPREENDIMENTOS TUC-TUC* (GETT)  esta com vagas abertas de Trainee para aventureiros, tode personagem que ingressa na GUILDA começa no primeiro Nível. A distribuição de atributos é feita através do método de geração por pontos presente no livro base (Tormenta20, pg 18). Obedecendo-se o valor mínimo de -2 e máximo de 6 pontos em cada atributo. A ficha a ser utilizada na guilda é disponibilizada no canal CeA. Outros modelos não serão aceitos.
 
 ### Equipamento
 
