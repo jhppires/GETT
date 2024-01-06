@@ -167,7 +167,7 @@ Paladinos de Thyatis, que morram em missão, não recebem PeA da aventura que os
 
 ### Multiclasse 
 
-Não é permitido pegar uma classe nova até que a personagem suba pelo menos 3 níveis em cada uma das que já possua. Ao pegar a nova classe, a PJ deve se manter nela por 3 níveis antes de pegar nível das classes que já possuía. Não é possível pegar uma classe nova após o nível 18.
+Não é permitido pegar uma classe nova até que a personagem suba pelo menos 3 níveis em cada uma das que já possua. Não é possível pegar uma classe nova após o nível 18.
 
 ### Treinamento
 
