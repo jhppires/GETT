@@ -55,7 +55,9 @@ O principal dever das Pessoas Narradoras (PNs) é gerar diversão para quem esti
 
 ### Como Narrar na Guilda
 
-PJs que desejam narrar devem então entrar em contato com uma **Divindade**, informando sua intenção de se tornar uma PN. Após isso, serão feitas uma série de perguntas com o intuito de avaliar sua capacidade como pessoa narradora.
+PJs que desejam narrar devem então entrar em contato com uma **Divindade**, informando sua intenção de se tornar uma PN. Após isso, serão feitas uma série de perguntas com o intuito de avaliar sua capacidade como pessoa narradora. 
+
+Com sua Missão aprovada você PN deve entrar em contato com as Divindades Marah, Nimb ou Arsenal para criar uma categoria, chat e um canal.
 
 ### Utilizando o Canon
 
@@ -143,7 +145,7 @@ Para pergaminhos comprados (de algum cambista) exige o o gasto de PeA. As regras
 
 ### Bravatas
 
-Bravatas (Audaz e Imprudente) – Personagens que cumpram uma bravata na cena final de uma aventura podem manter seus benefícios para a próxima missão. Para isso, devem registrar a bravata no canal de Taverna Fuxico informando a missão em que ela aconteceu e quem era a PN, para que a administração verifique a validade. Após a confirmação, a PJ pode manter os efeitos da bravata, desde que informe a Pessoa Narradora.
+Bravatas (Audaz e Imprudente) – Personagens que cumpram uma bravata na cena final de uma aventura podem manter seus benefícios para a próxima missão. Para isso, devem registrar a bravata no canal de CeA informando a missão em que ela aconteceu e quem era a PN, para que a administração verifique a validade. Após a confirmação, a PJ pode manter os efeitos da bravata, desde que informe a Pessoa Narradora.
 
 ### Invetor
 
@@ -389,8 +391,12 @@ Independente de ser uma atualização ou uma ficha nova, é necessário colocar 
 Ficha sempre em formato de PDF.
 
 **Nome do Jogador:**
+
 **Nome do Personagem:**
+
 **Nível:**
+
 **Modificações:** Se for uma ficha nova coloque NOVA FICHA, se for uma atualização coloque ATUALIZAÇÃO e o que foi atualizado.
+
 *Ficha e Imagem*
 
