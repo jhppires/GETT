@@ -67,7 +67,7 @@ Não mexa no Canon. Contudo, aventuras de nivel campeão ou maior (nivel 11 ou m
 
 ### Recompensa
 
-Cada missão concede recompensas em Pontos de experiência, tibares (moeda de Arton) e itens, de acordo com seu nível de desafio. Esses espólios são obtidos através de um baú de tesouro ao final de cada missão na GUILDA, esses são baús especiais produzido ou não por Renner. Dependendo da dificuldade, cada PN pode fornecer recompensas adicionais, até um limite de 20% da recompensa original, conforme a tabela 1-1: Recompensas e de acordo com o ND declarado previamente para a missão. 
+Cada missão concede recompensas em Pontos de experiência, tibares (moeda de Arton) e itens de acordo com seu nível de desafio, além de 1 PeA para cada PJ. Esses espólios são obtidos através de um baú de tesouro ao final de cada missão na GUILDA, esses são baús especiais produzido ou não por Renner. Dependendo da dificuldade, cada PN pode fornecer recompensas adicionais, até um limite de 20% da recompensa original, conforme a tabela 1-1: Recompensas e de acordo com o ND declarado previamente para a missão. 
 
 DEIXANDO CLARO O GRUPO GANHA 1 BAÚ DO ND DA MISSÃO, tudo que sair é divido igualmente e necessariamente o baú deve conter, ao menos, alguma recompensa ou seja dinheiro ou item, senão os jogadores tem o direito de rerolar os dados até conseguirem algo.  
 
