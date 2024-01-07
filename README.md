@@ -67,7 +67,11 @@ Não mexa no Canon. Contudo, aventuras de nivel campeão ou maior (nivel 11 ou m
 
 ### Recompensa
 
-Cada missão concede recompensas em Pontos de experiência, tibares (moeda de Arton) e itens, de acordo com seu nível de desafio. Esses espólios são obtidos através de um baú de tesouro ao final de cada missão na GUILDA, esses são baús especiais produzido ou não por Renner. Dependendo da dificuldade, cada PN pode fornecer recompensas adicionais, até um limite de 20% da recompensa original, conforme a tabela 1-1: Recompensas e de acordo com o ND declarado previamente para a missão, DEIXANDO CLARO O GRUPO GANHA 1 BAÚ DO ND DA MISSÃO, tudo que sair é divido igualmente e necessariamente o baú deve conter, ao menos, alguma recompensa, ou seja dinheiro ou item, senão os jogadores tem o direito de rerolar os dados até conseguirem algo. Além da experiência e do dinheiro, Narradories recebem 1 Ponto de Narração (PdNs) a cada missão concluída. 
+Cada missão concede recompensas em Pontos de experiência, tibares (moeda de Arton) e itens, de acordo com seu nível de desafio. Esses espólios são obtidos através de um baú de tesouro ao final de cada missão na GUILDA, esses são baús especiais produzido ou não por Renner. Dependendo da dificuldade, cada PN pode fornecer recompensas adicionais, até um limite de 20% da recompensa original, conforme a tabela 1-1: Recompensas e de acordo com o ND declarado previamente para a missão. 
+
+DEIXANDO CLARO O GRUPO GANHA 1 BAÚ DO ND DA MISSÃO, tudo que sair é divido igualmente e necessariamente o baú deve conter, ao menos, alguma recompensa ou seja dinheiro ou item, senão os jogadores tem o direito de rerolar os dados até conseguirem algo.  
+
+Narradories recebem 1 Ponto de Narração (PdNs) a cada missão concluída. 
 
 Os PdNs podem ser gastos na nossa Lojas dos Narradores da seguinte forma:
 
@@ -93,6 +97,9 @@ Atividades simples e meramente narrativas, como um diálogo, não exigem custo e
 ### Achados e Espólios
 
 É vedado a qualquer Membre da Guilda obter itens, dinheiro ou outra recompensa encontrada em missão, salvo itens de função meramente narrativa, como o dente de um monstro que servirá apenas de troféu. PNs pode fornecer itens e equipamentos para uso durante missão, porém qualquer item permanente, ou não utilizado, deve ser recolhido ao término dessa. Não sendo permitido uso em missões futuras.
+
+Tanto Narradore como Narradore Aprendiz podem receber recompensas por cada missão narrada, como forma de agradecimento por proporcionar diversão para Membres da Guilda. Ao término de uma missão, a PN recebe recompensas equivalentes a ter jogado uma missão de ND igual ao seu nível de personagem, sem qualquer acréscimo. 
+Por exemplo, a pessoa narradora ganhará dinheiro e XP equivalente a um dos membros do grupo para o qual mestrou mais 1 PdN, independentemente do ND da missão narrada. Podendo, também, abdicar de toda ou parte de sua recompensa caso deseje.
 
 #### Narradores
 Tanto Narradore como Narradore Aprendiz podem receber recompensas por cada missão narrada, como forma de agradecimento por proporcionar diversão para Membres da Guilda. Ao término de uma missão, a PN recebe recompensas equivalentes a ter jogado uma missão de ND igual ao seu nível de personagem, sem qualquer acréscimo. 
