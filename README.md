@@ -38,7 +38,7 @@ Apesar do livro básico ser a principal fonte, alguns materiais extras são perm
 | DB 190 |  | Poderes de Lutador e escolas de Combate |
 | DB 191  |  | Classe Místico  |
 | DB 192 |  | Poderes de Caçador |
-| DB 195 |  | Poderes de Bucaneiro e Inventor |
+| DB 195 |  | Poderes de Bucaneiro e Nobre |
 | DB 198 |  | Poderes de Bárbaro e Inventor |
 
 ### Missões
