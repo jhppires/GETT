@@ -70,6 +70,31 @@ Não mexa no Canon. Contudo, aventuras de nivel campeão ou maior (nivel 11 ou m
 Cada missão concede recompensas em Pontos de experiência, tibares (moeda de Arton) e itens de acordo com seu nível de desafio, além de 1 PeA para cada PJ. Esses espólios são obtidos através de um baú de tesouro ao final de cada missão na GUILDA, esses são baús especiais produzido ou não por Renner. Dependendo da dificuldade, cada PN pode fornecer recompensas adicionais, até um limite de 20% da recompensa original, conforme a tabela 1-1: Recompensas e de acordo com o ND declarado previamente para a missão. 
 
 DEIXANDO CLARO O GRUPO GANHA 1 BAÚ DO ND DA MISSÃO, tudo que sair é divido igualmente e necessariamente o baú deve conter, ao menos, alguma recompensa ou seja dinheiro ou item, senão os jogadores tem o direito de rerolar os dados até conseguirem algo.  
+      
+Esses valores devem ser divididos entre o número de personagens que realizaram a missão			
+| ND | Normal          | +10%            | +20%            |
+|----|-----------------|-----------------|-----------------|
+| 1  | 1000XP / 400T$  | 1100XP / 440T$  | 1200XP / 480T$  |
+| 2  | 2000XP / 500T$  | 2200XP / 550T$  | 2400XP / 600T$  |
+| 3  | 3000XP / 600T$  | 3300XP / 660T$  | 3600XP / 720T$  |
+| 4  | 4000XP / 1200T$ | 4400XP / 1320T$ | 4800XP / 1440T$ |
+| 5  | 5000XP / 2000T$ | 5500XP / 2200T$ | 6000XP / 2400T$ |
+| 6  | 6000XP / 2800T$ | 6600XP / 3080T$ | 7200XP / 3360T$ |
+| 7  | 7000XP / 3600T$ | 7700XP / 3960T$ | 8400XP / 4320T$ |
+| 8  | 8000XP / 4400T$ | 8800XP / 4840T$ | 9600XP / 5280T$ |
+| 9  | 9000XP / 5200T$ | 9900XP / 5720T$ | 10800XP / 6240T$|
+| 10 | 10000XP / 6000T$| 11000XP / 6600T$| 12000XP / 7200T$|
+| 11 | 11000XP / 7200T$| 12100XP / 7920T$| 13200XP / 8640T$|
+| 12 | 12000XP / 8400T$| 13200XP / 9240T$| 14400XP / 10080T$|
+| 13 | 13000XP / 9600T$| 14300XP / 10560T$| 15600XP / 11520T$|
+| 14 | 14000XP / 10800T$| 15800XP / 11880T$| 16800XP / 12960T$|
+| 15 | 15000XP / 12000T$| 16500XP / 13200T$| 18000XP / 14400T$|
+| 16 | 16000XP / 13600T$| 17600XP / 14960T$| 19200XP / 16320T$|
+| 17 | 17000XP / 15200T$| 18700XP / 16720T$| 20400XP / 18240T$|
+| 18 | 18000XP / 16800T$| 19800XP / 18480T$| 21600XP / 20060T$|
+| 19 | 19000XP / 18400T$| 20900XP / 20240T$| 22800XP / 22080T$|
+| 20 | ------------ / 20000T$| ------------ / 22000T$| ------------ / 24000T$|
+
 
 Narradories recebem 1 Ponto de Narração (PdNs) a cada missão concluída. 
 
