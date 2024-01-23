@@ -28,7 +28,7 @@ Apesar do livro básico ser a principal fonte, alguns materiais extras são perm
 | DB 195 | Poderes de Bucaneiro e Nobre |
 | DB 198 | Poderes de Bárbaro e Inventor |
 | Distinções para Tormenta 20 | LEIA O LIVRO |
-| Tabela 1: Materiais de Consulta |
+|| Tabela 1: Materiais de Consulta ||
 
 ### Equipamento
 
