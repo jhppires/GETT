@@ -4,23 +4,23 @@
 ### Capitulos
 [Criação de Personagem](#criacao-de-personagem)
 - [Equipamento](#equipamento)
-- [Histórico](#historico)
+- [Histórico](#histórico)
 - [Avaliação de ficha](#avalicao-de-ficha)
 
 [Missões](#missoes)
-- [Regras de Missões](#regras-de-missoes)
+- [Regras de Missões](#regras-de-missões)
 - [Narradories](#narradories)
 - [Como Narrar na Guilda](#como-narrar-na-guilda)
 - [Utilizando o Canon](#utilizando-o-canon)
 
 [Recompensa](#recompensa)
-- [Achados e Espólios](#achados-e-espolios)
+- [Achados e Espólios](#achados-e-espólios)
 - [Pontos entre Aventuras](#pontos-entre-aventuras)
-- [Pontos de Narração](#pontos-de-narracao)
+- [Pontos de Narração](#pontos-de-narração)
 
-[Itens e Comércio](#itens-e-comercio)
-- [Comércio entre jogadories](#comercio-entre-jogadories)
-- [Fabricação de Itens](#fabricacao-de-itens)
+[Itens e Comércio](#itens-e-comércio)
+- [Comércio entre jogadories](#comércio-entre-jogadories)
+- [Fabricação de Itens](#fabricação-de-itens)
 - [Limites do Mercado](#limites-do-mercado)
 
 [Morte](#Morte)
@@ -30,21 +30,21 @@
 
 [Regras Adicionais](#regras-adicionais)
 
-[Distinções](#distincoes)
+[Distinções](#distinções)
 
 [Buscas](#buscas)
 
-[Negócios](#negocios)
+[Negócios](#negócios)
 
 ### Tabelas
 - [Tabela 1: Materiais de Consulta](#tabela-1-materiais-de-consulta)
 - [Tabela 2: Recompensas por ND](#tabela-2-recompensas-por-nd)
 - [Tabela 3: Uso de Pontos entre Aventuras ](#tabela-3-uso-de-pontos-entre-aventuras)
 - [Tabela 4: Uso de Pontos de Narração](#tabela-4-uso-de-pontos-de-narração)
-- [Tabela 5: Distinções](#tabela-5-distincoes)
-- [Tabela 6: Perícias de Buscas](#tabela-6-pericias-de-buscas)
-- [Tabela 7: Busca de Itens Mágicos](#tabela-7-busca-de-itens-magicos)
-- [Tabela 8: Ativos de Negócios](#tabela-8-ativos-de-negocios)
+- [Tabela 5: Distinções](#tabela-5-distinções)
+- [Tabela 6: Perícias de Buscas](#tabela-6-perícias-de-buscas)
+- [Tabela 7: Busca de Itens Mágicos](#tabela-7-busca-de-itens-mágicos)
+- [Tabela 8: Ativos de Negócios](#tabela-8-ativos-de-negócios)
 
 
 ## Criação de Personagem
