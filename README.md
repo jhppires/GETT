@@ -6,23 +6,28 @@
 - [Equipamento](#equipamento)
 - [Histórico](#historico)
 - [Avaliação de ficha](#avalicao-de-ficha)
+
 [Missões](#missoes)
 - [Regras de Missões](#regras-de-missoes)
 - [Narradories](#narradories)
 - [Como Narrar na Guilda](#como-narrar-na-guilda)
 - [Utilizando o Canon](#utilizando-o-canon)
+
 [Recompensa](#recompensa)
 - [Achados e Espólios](#achados-e-espolios)
 - [Pontos entre Aventuras](#pontos-entre-aventuras)
 - [Pontos de Narração](#pontos-de-narracao)
+
 [Itens e Comércio](#itens-e-comercio)
 - [Comércio entre jogadories](#comercio-entre-jogadories)
 - [Fabricação de Itens](#fabricacao-de-itens)
 - [Limites do Mercado](#limites-do-mercado)
+
 [Morte](#Morte)
 - [Segunda chance de Thyatis](#segunda-chance-de-thyatis) 
 - [Personagens que revivem](#personagens-que-revivem)
 - [Auditoria](#auditoria)
+
 [Regras Adicionais](#regras-adicionais)
 [Distinções](#distincoes)
 [Buscas](#buscas)
