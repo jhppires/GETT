@@ -37,7 +37,7 @@
 [Negócios](#negocios)
 
 ### Tabelas
-[Tabela 1: Materiais de Consulta](#tabela-1:-materiais-de-consulta)
+[Tabela 1: Materiais de Consulta](#tabela-1-materiais-de-consulta)
 
 ## Criação de Personagem
 
