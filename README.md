@@ -18,7 +18,7 @@
 [Itens e Comércio](#itens-e-comercio)
 - [Comércio entre jogadories](#comercio-entre-jogadories)
 - [Fabricação de Itens](#fabricacao-de-itens)
-- [Limites do Mercado](#Limites do Mercado)
+- [Limites do Mercado](#limites-do-mercado)
 [Morte](#Morte)
 - [Segunda chance de Thyatis](#segunda-chance-de-thyatis) 
 - [Personagens que revivem](#personagens-que-revivem)
