@@ -1,7 +1,35 @@
 # Manual do SAP (Sociedade de associação de pessoas)
 
 ## Sumario
-[Criação de Personagem](#equipamento)
+### Capitulos
+[Criação de Personagem](#criacao-de-personagem)
+- [Equipamento](#equipamento)
+- [Histórico](#historico)
+- [Avaliação de ficha](#avalicao-de-ficha)
+[Missões](#missoes)
+- [Regras de Missões](#regras-de-missoes)
+- [Narradories](#narradories)
+- [Como Narrar na Guilda](#como-narrar-na-guilda)
+- [Utilizando o Canon](#utilizando-o-canon)
+[Recompensa](#recompensa)
+- [Achados e Espólios](#achados-e-espolios)
+- [Pontos entre Aventuras](#pontos-entre-aventuras)
+- [Pontos de Narração](#pontos-de-narracao)
+[Itens e Comércio](#itens-e-comercio)
+- [Comércio entre jogadories](#comercio-entre-jogadories)
+- [Fabricação de Itens](#fabricacao-de-itens)
+- [Limites do Mercado](#Limites do Mercado)
+[Morte](#Morte)
+- [Segunda chance de Thyatis](#segunda-chance-de-thyatis) 
+- [Personagens que revivem](#personagens-que-revivem)
+- [Auditoria](#auditoria)
+[Regras Adicionais](#regras-adicionais)
+[Distinções](#distincoes)
+[Buscas](#buscas)
+[Negócios](#negocios)
+
+### Tabelas
+[Tabela 1: Materiais de Consulta](#tabela-1:-materiais-de-consulta)
 
 ## Criação de Personagem
 
@@ -31,7 +59,7 @@ Apesar do livro básico ser a principal fonte, alguns materiais extras são perm
 | DB 195 | Poderes de Bucaneiro e Nobre |
 | DB 198 | Poderes de Bárbaro e Inventor |
 | Distinções para Tormenta 20 | LEIA O LIVRO |
-Tabela 1: Materiais de Consulta
+##### Tabela 1: Materiais de Consulta
 
 ### Equipamento
 
@@ -72,7 +100,7 @@ Com sua Missão aprovada, você enquanto Narradore, deve publicar sua missão, c
 
 Não mexa no Canon. Contudo, aventuras de nível campeão ou maior (nivel 11 ou maior) podem fazer alterações pela sua fama descomunal, mas isso necessita da aprovação das Divindades.
 
-### Recompensa
+## Recompensa
 
 Cada missão concede recompensas em Pontos de experiência e tibares (moeda de Arton) de acordo com seu Nível de Desafio, além de 1 PeA para cada PJ. Esses espólios são obtidos através de um baú de tesouro ao final de cada missão na GUILDA, esses são baús especiais produzidos (ou não) por Renner. Dependendo da dificuldade, cada PN pode fornecer recompensas adicionais, até um limite de 20% da recompensa original, conforme a **Tabela 2: Recompensas por ND** abaixo e de acordo com o ND declarado previamente para a missão. 
 
@@ -377,7 +405,7 @@ Esses negócios podem ser de todo tipo, de estalagens a laboratórios alquímico
 
 Para abrir um negócio, a PJ deve entrar em contato com uma das Divindades, justificando os motivos que levaram a querer abrir um empreendimento e porquê sua personagem teria um negócio. Nesse ponto, é importante contar uma história! Além de poderosos bonus numéricos, negócios precisam ter uma relação com o personagem em si e negócios sem esse desenvolvimento não serão aprovados. Caso sua justificativa seja válida, a responsável lhe dará aprovação para executar os testes. 
 
-Com a aprovação, a PJ deve se encaminhar à sala **Varejos Renner** e fazer um teste de Nobreza, pagando T$1000 e 2 PeA. Isso representa o tempo e trabalho necessários para reunir toda a papelada e resolver a burocracia que o reinado pede para permitir a atuação de sua nova empresa. O teste possui CD 20 e em caso de falha pode-se tentar novamente quantas vezes desejar, pagando T$1000 e 1 PeA adicionais, porém possuirá um bônus cumulativo de +1 no teste. Para cada falha anterior, o bônus é zerado após a obtenção de sucesso. 
+Com a aprovação, a PJ deve se encaminhar à sala **Varejos Renner** _e fazer um teste de Nobreza, pagando T$1000 e 2 PeA_. Isso representa o tempo e trabalho necessários para reunir toda a papelada e resolver a burocracia que o reinado pede para permitir a atuação de sua nova empresa. O **teste possui CD 20** e em caso de falha pode-se tentar novamente quantas vezes desejar, pagando _T$1000 e 1 PeA_ adicionais, porém possuirá um bônus cumulativo de +1 no teste. Para cada falha anterior, o bônus é zerado após a obtenção de sucesso. 
 
 Não é necessário ser treinado em Nobreza para abrir um negócio, a personagem pode contratar alguém para assumir essa função, permitindo que faça o teste como se fosse treinado (incluindo o bônus de treino). Porém, personagens não treinadas tem os custos, tanto de Dinheiro como de PeA dobrados (T$2000 e 4 PeA na primeira tentativa mais T$2000 e 2 PeA por cada tentativa extra). Bardos podem utilizar o poder Eclético para fazer os testes como se fossem treinados, nesse caso a CD aumenta em +2 e devem gastar os PM da ativação, que só poderão ser recuperados durante sua próxima missão. As rolagens devem ser supervisionadas por alguma Divindade, que deve ser contatado antes da rolagem ser efetuada.
 
