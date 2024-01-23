@@ -12,7 +12,7 @@
 
 ![](img/timMaia.png)
 
-Apesar do livro básico ser a principal fonte, alguns materiais extras são permitidos na GUILDA. Qualquer material lançado, em livro ou revista, será previamente avaliado pelas Divindades antes de ser liberado no canal Anúncios do Panteão. Apenas serão aceitos materiais especificados nas regras da GUILDA, caso algum material não esteja incluído aqui, significa que não é aceito. Todos materiais podem ser encontrados ![clicando aqui](https://drive.google.com/drive/folders/1wD0FQKwM0g6YoPGTDQhlEScuFBALG6qQ?usp=sharing"). Sempre que um material novo for aceito, ele irá ser anunciado no canal **Anúncios do Panteão** e registrado na **Tabela 1: Materiais de Consulta**, logo abaixo:
+Apesar do livro básico ser a principal fonte, alguns materiais extras são permitidos na GUILDA. Qualquer material lançado, em livro ou revista, será previamente avaliado pelas Divindades antes de ser liberado no canal Anúncios do Panteão. Apenas serão aceitos materiais especificados nas regras da GUILDA, caso algum material não esteja incluído aqui, significa que não é aceito. Todos materiais podem ser encontrados [clicando aqui](https://drive.google.com/drive/folders/1wD0FQKwM0g6YoPGTDQhlEScuFBALG6qQ?usp=sharing"). Sempre que um material novo for aceito, ele irá ser anunciado no canal **Anúncios do Panteão** e registrado na **Tabela 1: Materiais de Consulta**, logo abaixo:
 
 | Material | Nota |
 | ---- | ---- |
