@@ -2,10 +2,10 @@
 
 ## Sumario
 ### Capitulos
-[Criação de Personagem](#criacao-de-personagem)
+[Criação de Personagem](#criação-de-personagem)
 - [Equipamento](#equipamento)
 - [Histórico](#histórico)
-- [Avaliação de ficha](#avalicao-de-ficha)
+- [Avaliação de ficha](#avaliação-de-ficha)
 
 [Missões](#missoes)
 - [Regras de Missões](#regras-de-missões)
