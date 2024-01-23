@@ -1,9 +1,9 @@
 # Manual do SAP (Sociedade de associação de pessoas)
 
 ## Sumario
-[Criação de Personagem](#criacao-de-personagem)
+[Criação de Personagem](#equipamento)
 
-## Criação de Personagem [personagem]
+## Criação de Personagem
 
 *GUILDA EMPREENDIMENTOS TUC-TUC* (GETT) está com vagas abertas de Trainee para aventureiros, tode personagem que ingressa na GUILDA começa no terceiro Nível. A distribuição de atributos é feita através do método de compra por pontos, presente no livro base (Tormenta20, pg 18). Obedecendo-se o valor mínimo de -2 e máximo de 6 pontos em cada atributo. A ficha a ser utilizada na guilda é disponibilizada no canal CeA. Outros modelos não serão aceitos.
 
