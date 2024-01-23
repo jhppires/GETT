@@ -37,14 +37,14 @@
 [Negócios](#negocios)
 
 ### Tabelas
-[Tabela 1: Materiais de Consulta](#tabela-1-materiais-de-consulta)
-[Tabela 2: Recompensas por ND](#tabela-2-recompensas-por-nd)
-[Tabela 3: Uso de Pontos entre Aventuras ](#tabela-3-uso-de-pontos-entre-aventuras)
-[Tabela 4: Uso de Pontos de Narração](#tabela-4-uso-de-pontos-de-narração)
-[Tabela 5: Distinções](#tabela-5-distincoes)
-[Tabela 6: Perícias de Buscas](#tabela-6-pericias-de-buscas)
-[Tabela 7: Busca de Itens Mágicos](#tabela-7-busca-de-itens-magicos)
-[Tabela 8: Ativos de Negócios](#tabela-8-ativos-de-negocios)
+- [Tabela 1: Materiais de Consulta](#tabela-1-materiais-de-consulta)
+- [Tabela 2: Recompensas por ND](#tabela-2-recompensas-por-nd)
+- [Tabela 3: Uso de Pontos entre Aventuras ](#tabela-3-uso-de-pontos-entre-aventuras)
+- [Tabela 4: Uso de Pontos de Narração](#tabela-4-uso-de-pontos-de-narração)
+- [Tabela 5: Distinções](#tabela-5-distincoes)
+- [Tabela 6: Perícias de Buscas](#tabela-6-pericias-de-buscas)
+- [Tabela 7: Busca de Itens Mágicos](#tabela-7-busca-de-itens-magicos)
+- [Tabela 8: Ativos de Negócios](#tabela-8-ativos-de-negocios)
 
 
 ## Criação de Personagem
