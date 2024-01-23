@@ -29,8 +29,11 @@
 - [Auditoria](#auditoria)
 
 [Regras Adicionais](#regras-adicionais)
+
 [Distinções](#distincoes)
+
 [Buscas](#buscas)
+
 [Negócios](#negocios)
 
 ### Tabelas
