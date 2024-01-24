@@ -53,6 +53,9 @@
 
 	"Gett good com a Guilda Empreendimentos Tuc-Tuc"
 
+Cada PJ pode ter no máximo 2 personagens, quando o primeiro personagem chega a nível 8 o PJ ganha o direito de ter um segundo personagem, seguindo as mesmas regras descritas acima. Contudo os personagens não podem trocar presentes ou itens entre si. 
+Por ultimo, se um PN tiver dois personagens, as recompensas de uma missão narrada por ele vão sempre para o personagem de menor nível. 
+
 ### Materiais de consulta
 
 **LEIA O LIVRO!** O principal material utilizado na GUILDA é o livro básico de TORMENTA20 (que pode ser obtido de forma digital ou física através do site da Jambô Editora). 
@@ -134,7 +137,7 @@ Esses valores devem ser divididos entre o número de personagens que realizaram 
 | 6  | 6600XP / 3080T$  | 7260XP / 3388T$  | 7920XP / 3696T$  |
 | 7  | 7700XP / 3960T$  | 8470XP / 4356T$  | 9240XP / 4752T$  |
 | 8  | 8800XP / 4840T$  | 9680XP / 5324T$  | 10560XP / 5808T$ |
-| 9  | 9900XP / 5720T$ | 10890XP / 6292T$ | 11880XP / 6864T$ |
+| 9  | 9900XP / 5720T$  | 10890XP / 6292T$ | 11880XP / 6864T$ |
 | 10 | 11000XP / 6600T$ | 12100XP / 7260T$ | 13200XP / 7920T$ |
 | 11 | 12100XP / 7920T$ | 13310XP / 8712T$ | 14520XP / 9504T$ |
 | 12 | 13200XP / 9240T$ | 14520XP / 10164T$| 15840XP / 11088T$|
@@ -184,7 +187,7 @@ Abaixo você pode verificar os usos para os seus PeAs, lembrando que os benefíc
 ### Pontos de Narração
 
 Narradories podem receber recompensas por cada missão narrada, como forma de agradecimento por proporcionar diversão para Membres da Guilda. 
-Ao término de uma missão, a PN recebe recompensas equivalentes a ter jogado uma missão de ND igual ao seu nível de personagem (o de nível mais baixo, se tiver mais de um personagem), sem qualquer acréscimo. Recebendo Tibares e XP equivalente a um dos membros do grupo para o qual mestrou, independente do ND da missão narrada. Isto é, se a PN possui uma personagem de 3° nível e narrou para um grupo de 4 pessoas, receberá 750 XP e T$150 (valores equivalentes a uma parte de 4, de 3000 XP e T$600, recompensa de uma missão de ND 3), desconsiderando assim, o ND da missão narrada e considerando apenas o nível de seu personagem. 
+Ao término de uma missão, a PN recebe recompensas equivalentes a ter jogado uma missão de ND igual ao seu nível de personagem (o de nível mais baixo, se tiver mais de um personagem), sem qualquer acréscimo. Recebendo Tibares e XP equivalente a um dos membros do grupo para o qual mestrou, independente do ND da missão narrada. Isto é, se a PN possui uma personagem de 3° nível e narrou para um grupo de 4 pessoas, receberá 825 XP e T$165 (valores equivalentes a um grupo de 4, de 3300 XP e T$660, recompensa de uma missão de ND 3, se for um grupo de 5 pessoas divide por 5), desconsiderando assim, o ND da missão narrada e considerando apenas o nível de seu personagem. 
 
 Além disso, a PN recebe também 1 Ponto de Narração (PdN), que pode ser trocada em alguns benefícios no Varejos Renner, da mesma forma que os PeA, como mostra a **Tabela 4: Uso de Pontos de Narração** abaixo:
 #### Tabela 4: Uso de Pontos de Narração
@@ -475,4 +478,4 @@ Todo negócio possui uma finalidade ou área de atuação, a isso damos o nome d
 ### Restrição e Mudanças 
 Bônus fornecidos por negócios só podem ser aplicados em aventuras e fabricação de itens. É proibido utilizar os bônus em buscas. 
 
-Uma personagem que deseje trocar um ativo antigo deve gastar 1 PeA e um valor igual a T$1000 x nível do negócio. Por exemplo um personagem com 6 ativos deve pagar T$6000 e 1 PeA para retreinar um ativo.
+Uma personagem que deseje trocar um ativo antigo deve gastar 1 PeA e um valor igual a 1000 x nível do negócio. Por exemplo um personagem com 6 ativos deve pagar T$6000 e 1 PeA para retreinar um ativo.
