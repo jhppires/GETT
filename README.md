@@ -1,10 +1,60 @@
 # Manual do SAP (Sociedade de associação de pessoas)
 
+## Sumario
+### Capitulos
+[Criação de Personagem](#criação-de-personagem)
+- [Equipamento](#equipamento)
+- [Histórico](#histórico)
+- [Avaliação de Ficha](#avaliação-de-ficha)
+
+[Missões](#missoes)
+- [Regras de Missões](#regras-de-missões)
+- [Narradories](#narradories)
+- [Como Narrar na Guilda](#como-narrar-na-guilda)
+- [Utilizando o Canon](#utilizando-o-canon)
+
+[Recompensas](#recompensa)
+- [Achados e Espólios](#achados-e-espólios)
+- [Pontos entre Aventuras](#pontos-entre-aventuras)
+- [Pontos de Narração](#pontos-de-narração)
+
+[Itens e Comércio](#itens-e-comércio)
+- [Comércio entre Jogadories](#comércio-entre-jogadories)
+- [Fabricação de Itens](#fabricação-de-itens)
+- [Limites do Mercado](#limites-do-mercado)
+
+[Morte](#Morte)
+- [Segunda chance de Thyatis](#segunda-chance-de-thyatis) 
+- [Personagens que revivem](#personagens-que-revivem)
+- [Auditoria](#auditoria)
+
+[Regras Adicionais](#regras-adicionais)
+
+[Distinções](#distinções)
+
+[Buscas](#buscas)
+
+[Negócios](#negócios)
+
+### Tabelas
+- [Tabela 1: Materiais de Consulta](#tabela-1-materiais-de-consulta)
+- [Tabela 2: Recompensas por ND](#tabela-2-recompensas-por-nd)
+- [Tabela 3: Uso de Pontos entre Aventuras ](#tabela-3-uso-de-pontos-entre-aventuras)
+- [Tabela 4: Uso de Pontos de Narração](#tabela-4-uso-de-pontos-de-narração)
+- [Tabela 5: Distinções](#tabela-5-distinções)
+- [Tabela 6: Perícias de Buscas](#tabela-6-perícias-de-buscas)
+- [Tabela 7: Busca de Itens Mágicos](#tabela-7-busca-de-itens-mágicos)
+- [Tabela 8: Ativos de Negócios](#tabela-8-ativos-de-negócios)
+
+
 ## Criação de Personagem
 
 *GUILDA EMPREENDIMENTOS TUC-TUC* (GETT) está com vagas abertas de Trainee para aventureiros, tode personagem que ingressa na GUILDA começa no terceiro Nível. A distribuição de atributos é feita através do método de compra por pontos, presente no livro base (Tormenta20, pg 18). Obedecendo-se o valor mínimo de -2 e máximo de 6 pontos em cada atributo. A ficha a ser utilizada na guilda é disponibilizada no canal CeA. Outros modelos não serão aceitos.
 
 	"Gett good com a Guilda Empreendimentos Tuc-Tuc"
+
+Cada PJ pode ter no máximo 2 personagens, quando o primeiro personagem chega ao nível 8, o PJ pode ter um segundo personagem, seguindo as mesmas regras descritas acima. Contudo os personagens não podem trocar presentes ou itens entre si. 
+Além disso, se um PN tiver dois personagens, as recompensas de uma missão narrada por ele vão sempre para o personagem de menor nível. 
 
 ### Materiais de consulta
 
@@ -12,8 +62,9 @@
 
 ![](img/timMaia.png)
 
-Apesar do livro básico ser a principal fonte, alguns materiais extras são permitidos na GUILDA. Qualquer material lançado, em livro ou revista, será previamente avaliado pelas Divindades antes de ser liberado no canal Anúncios do Panteão. Apenas serão aceitos materiais especificados nas regras da GUILDA, caso algum material não esteja incluído aqui, significa que não é aceito. Todos materiais podem ser encontrados ![clicando aqui](https://drive.google.com/drive/folders/1wD0FQKwM0g6YoPGTDQhlEScuFBALG6qQ?usp=sharing"). Sempre que um material novo for aceito, ele irá ser anunciado no canal **Anúncios do Panteão** e registrado na **Tabela 1: Materiais de Consulta**, logo abaixo:
+Apesar do livro básico ser a principal fonte, alguns materiais extras são permitidos na GUILDA. Qualquer material lançado, em livro ou revista, será previamente avaliado pelas Divindades antes de ser liberado no canal Anúncios do Panteão. Apenas serão aceitos materiais especificados nas regras da GUILDA, caso algum material não esteja incluído aqui, significa que não é aceito. Todos materiais podem ser encontrados [clicando aqui](https://drive.google.com/drive/folders/1wD0FQKwM0g6YoPGTDQhlEScuFBALG6qQ?usp=sharing"). Sempre que um material novo for aceito, ele irá ser anunciado no canal **Anúncios do Panteão** e registrado na **Tabela 1: Materiais de Consulta**, logo abaixo:
 
+##### Tabela 1: Materiais de Consulta
 | Material | Nota |
 | ---- | ---- |
 | Tormenta 20 Jogo do ano | LEIA O LIVRO |
@@ -28,7 +79,6 @@ Apesar do livro básico ser a principal fonte, alguns materiais extras são perm
 | DB 195 | Poderes de Bucaneiro e Nobre |
 | DB 198 | Poderes de Bárbaro e Inventor |
 | Distinções para Tormenta 20 | LEIA O LIVRO |
-| Tabela 1: Materiais de Consulta |
 
 ### Equipamento
 
@@ -69,36 +119,36 @@ Com sua Missão aprovada, você enquanto Narradore, deve publicar sua missão, c
 
 Não mexa no Canon. Contudo, aventuras de nível campeão ou maior (nivel 11 ou maior) podem fazer alterações pela sua fama descomunal, mas isso necessita da aprovação das Divindades.
 
-### Recompensa
+## Recompensa
 
 Cada missão concede recompensas em Pontos de experiência e tibares (moeda de Arton) de acordo com seu Nível de Desafio, além de 1 PeA para cada PJ. Esses espólios são obtidos através de um baú de tesouro ao final de cada missão na GUILDA, esses são baús especiais produzidos (ou não) por Renner. Dependendo da dificuldade, cada PN pode fornecer recompensas adicionais, até um limite de 20% da recompensa original, conforme a **Tabela 2: Recompensas por ND** abaixo e de acordo com o ND declarado previamente para a missão. 
 
 **IMPORTANTE**: O GRUPO GANHA 1 BAÚ DO ND DA MISSÃO, que então é divido igualmente entre os Jogadores.  
-      
+
+#### Tabela 2: Recompensas por ND
 Esses valores devem ser divididos entre o número de personagens que realizaram a missão:			
-| ND | Normal          | +10%            | +20%            |
-|----|-----------------|-----------------|-----------------|
-| 1  | 1000XP / 400T$  | 1100XP / 440T$  | 1200XP / 480T$  |
-| 2  | 2000XP / 500T$  | 2200XP / 550T$  | 2400XP / 600T$  |
-| 3  | 3000XP / 600T$  | 3300XP / 660T$  | 3600XP / 720T$  |
-| 4  | 4000XP / 1200T$ | 4400XP / 1320T$ | 4800XP / 1440T$ |
-| 5  | 5000XP / 2000T$ | 5500XP / 2200T$ | 6000XP / 2400T$ |
-| 6  | 6000XP / 2800T$ | 6600XP / 3080T$ | 7200XP / 3360T$ |
-| 7  | 7000XP / 3600T$ | 7700XP / 3960T$ | 8400XP / 4320T$ |
-| 8  | 8000XP / 4400T$ | 8800XP / 4840T$ | 9600XP / 5280T$ |
-| 9  | 9000XP / 5200T$ | 9900XP / 5720T$ | 10800XP / 6240T$ |
-| 10 | 10000XP / 6000T$ | 11000XP / 6600T$ | 12000XP / 7200T$ |
-| 11 | 11000XP / 7200T$ | 12100XP / 7920T$ | 13200XP / 8640T$ |
-| 12 | 12000XP / 8400T$ | 13200XP / 9240T$ | 14400XP / 10080T$ |
-| 13 | 13000XP / 9600T$ | 14300XP / 10560T$ | 15600XP / 11520T$ |
-| 14 | 14000XP / 10800T$ | 15800XP / 11880T$ | 16800XP / 12960T$ |
-| 15 | 15000XP / 12000T$ | 16500XP / 13200T$ | 18000XP / 14400T$ |
-| 16 | 16000XP / 13600T$ | 17600XP / 14960T$ | 19200XP / 16320T$ |
-| 17 | 17000XP / 15200T$ | 18700XP / 16720T$ | 20400XP / 18240T$ |
-| 18 | 18000XP / 16800T$ | 19800XP / 18480T$ | 21600XP / 20060T$ |
-| 19 | 19000XP / 18400T$ | 20900XP / 20240T$ | 22800XP / 22080T$ |
-| 20 | ------------ / 20000T$ | ------------ / 22000T$ | ------------ / 24000T$ |
-| Tabela 2: Recompensas por ND |
+| ND | Normal           | +10%             | +20%             |
+|----|------------------|------------------|------------------|
+| 1  | 1100 XP / T$ 484   | 1210 XP / T$ 484   | 1320 XP / T$ 528   |
+| 2  | 2200 XP / T$ 550   | 2420 XP / T$ 605   | 2640 XP / T$ 660   |
+| 3  | 3300 XP / T$ 660   | 3630 XP / T$ 726   | 3960 XP / T$ 792   |
+| 4  | 4400 XP / T$ 1320  | 4840 XP / T$ 1452  | 5280 XP / T$ 1584  |
+| 5  | 5500 XP / T$ 2200  | 6050 XP / T$ 2420  | 6600 XP / T$ 2640  |
+| 6  | 6600 XP / T$ 3080  | 7260 XP / T$ 3388  | 7920 XP / T$ 3696  |
+| 7  | 7700 XP / T$ 3960  | 8470 XP / T$ 4356  | 9240 XP / T$ 4752  |
+| 8  | 8800 XP / T$ 4840  | 9680 XP / T$ 5324  | 10560 XP / T$ 5808 |
+| 9  | 9900 XP / T$ 5720  | 10890 XP / T$ 6292 | 11880 XP / T$ 6864 |
+| 10 | 11000 XP / T$ 6600 | 12100 XP / T$ 7260 | 13200 XP / T$ 7920 |
+| 11 | 12100 XP / T$ 7920 | 13310 XP / T$ 8712 | 14520 XP / T$ 9504 |
+| 12 | 13200 XP / T$ 9240 | 14520 XP / T$ 10164 | 15840 XP / T$ 11088 |
+| 13 | 14300 XP / T$ 10560 | 15730 XP / T$ 11616 | 17160 XP / T$ 12672 |
+| 14 | 15400 XP / T$ 11880 | 17380 XP / T$ 13068 | 18480 XP / T$ 14256 |
+| 15 | 16500 XP / T$ 13200 | 18150 XP / T$ 14520 | 19800 XP / T$ 15840 |
+| 16 | 17600 XP / T$ 14960 | 19360 XP / T$ 16456 | 21120 XP / T$ 17952 |
+| 17 | 18700 XP / T$ 16720 | 20570 XP / T$ 18392 | 22440 XP / T$ 20064 |
+| 18 | 19800 XP / T$ 18480 | 21780 XP / T$ 20328 | 23760 XP / T$ 22066 |
+| 19 | 20900 XP / T$ 20240 | 22990 XP / T$ 22264 | 25080 XP / T$ 24288 |
+| 20 | T$ 22000 | T$ 24200 | T$ 26400 |
 
 A ficha atualizada com os valores de XP e T$ deve ser enviada em 𝓒𝓮𝓐, no seu devido Post. 
 PJs de ND 20, entretanto, recebem 2 PeA, já que não possuem mais uso para o ganho de XP.
@@ -116,6 +166,8 @@ Sempre que quiser realizar uma atividade importante fora de missões, como **tre
 Atividades simples e meramente narrativas, como um diálogo, não exigem custo em PeA. Cada atividade equivale a 1 semana e qualquer uso deles deve ser registrado na ficha de personagem e publicado no canal **𝓒𝓮𝓐**.
 
 Abaixo você pode verificar os usos para os seus PeAs, lembrando que os benefícios aqui listados podem ter custos adicionais, sendo que aqui estão apenas listados a quantidade de PeAs gastos em cada atividade. Você pode ler mais sobre nas suas respectivas categorias:
+
+#### Tabela 3: Uso de Pontos entre Aventuras 
 | Valor em PeA | Benefício |
 | ---- | ---- |
 | 0 PeA | Qualquer atividade meramente narrativa. |
@@ -129,14 +181,15 @@ Abaixo você pode verificar os usos para os seus PeAs, lembrando que os benefíc
 | 2+ PeA | Abrir um Negócio |
 | 3 PeA | Retreinar 1 Nível inteiro de Classe |
 | 4+ PeA | Tornar-se um Médico de Sallistick |
-| Tabela 3: Uso de Pontos entre Aventuras |
+
 
 ### Pontos de Narração
 
 Narradories podem receber recompensas por cada missão narrada, como forma de agradecimento por proporcionar diversão para Membres da Guilda. 
-Ao término de uma missão, a PN recebe recompensas equivalentes a ter jogado uma missão de ND igual ao seu nível de personagem (o de nível mais baixo, se tiver mais de um personagem), sem qualquer acréscimo. Recebendo Tibares e XP equivalente a um dos membros do grupo para o qual mestrou, independente do ND da missão narrada. Isto é, se a PN possui uma personagem de 3° nível e narrou para um grupo de 4 pessoas, receberá 750 XP e T$150 (valores equivalentes a uma parte de 4, de 3000 XP e T$600, recompensa de uma missão de ND 3), desconsiderando assim, o ND da missão narrada e considerando apenas o nível de seu personagem. 
+Ao término de uma missão, a PN recebe recompensas equivalentes a ter jogado uma missão de ND igual ao seu nível de personagem (o de nível mais baixo, se tiver mais de um personagem), sem qualquer acréscimo. Recebendo Tibares e XP equivalente a um dos membros do grupo para o qual mestrou, independente do ND da missão narrada. Isto é, se a PN possui uma personagem de 3° nível e narrou para um grupo de 4 pessoas, receberá 825 XP e T$165 (valores equivalentes a um grupo de 4, de 3300 XP e T$660, recompensa de uma missão de ND 3, se for um grupo de 5 pessoas divide por 5), desconsiderando assim, o ND da missão narrada e considerando apenas o nível de seu personagem. 
 
 Além disso, a PN recebe também 1 Ponto de Narração (PdN), que pode ser trocada em alguns benefícios no Varejos Renner, da mesma forma que os PeA, como mostra a **Tabela 4: Uso de Pontos de Narração** abaixo:
+#### Tabela 4: Uso de Pontos de Narração
 | Valor em PdN | Benefício |
 | ---- | ---- |
 | 1 PdN | 1PeA |
@@ -145,7 +198,7 @@ Além disso, a PN recebe também 1 Ponto de Narração (PdN), que pode ser troca
 | 3 PdN | Adicionar uma (1) modificação a um item, pagando o custo cheio da modificação |
 | 2 PdN | Seu próximo craft conta como tempo dobrado e você ganha +5 em todos os seus ofícios. |
 | 1 PdN | Seu próximo craft de itens permanentes dura um mês. Não cumulativo com Funcionários. |
-| Tabela 4: Uso de Pontos de Narração |
+
 
 A PN pode, também, abdicar de toda ou parte de sua recompensa caso deseje.
 
@@ -267,6 +320,7 @@ Poderes de Distinção que tenham pré requisitos de RP (como matar um lefeu de 
 
 Distinções com um asterisco em seus nomes indicam distinções que precisam que suas missões de admissão sejam acordadas com a Divindade e a PJ com antemão, afim de evitar desconfortos e gatilhos.
 
+#### Tabela 5: Distinções
 | Nome | Requisitos |
 | ---- | ---- |
 | Aeronauta Goblin | Não Goblins podem passar pela avaliação da Divindade para se tornar aeronautas. <br>- Fabricar o ornitóptero, seguindo as regras normais de ofício; <br>- Fazer uma missão com o ornitóptero; |
@@ -283,7 +337,6 @@ Distinções com um asterisco em seus nomes indicam distinções que precisam qu
 | Presa de Coral | - Realizar uma missão relacionada aos Presas de Coral; <br>- Ser bem sucedido em 2 buscas relacionadas ao treino; <br>- Realizar uma missão para Benthos com o ritual no fim (Sangue de Dragão Rei deve ser obrigatoriamente ingerido); |
 | Vigilante Mascarado | - O personagem deve realizar 1 RP sobre seus desejos internos; <br>- Usar um traje ou armadura com 2 modificações, dentro do seu 'tema'; <br>- Ser bem sucedido em uma Busca sobre sua 'manobra secreta'; <br>- 1 missão com seu traje; |
 | Xerife de Azgher | - Ser bem sucedido em uma missão que termine em prender um criminoso notório; <br>- Ser bem sucedido em 2 buscas, que representam o sonho e a viagem; <br>- 1 missão onde o personagem será acompanhado por um xerife de Azgher; <br>- Oferenda de itens ou Tibares no valor do Sol Vigilante. |
-| Tabela 5: Distinções |
 
 ## Buscas
 Buscas são pequenas “missões pessoais”, feitas por PJs que almejam algo que não pode ser obtido normalmente. Uma personagem faz a busca quando quer tesouros ou itens que não podem ser comprados por meio do comércio ou missões comuns. Para maior definição e regras detalhadas de buscas, leia a página 264 do livro básico de TORMENTA20. A seguir serão listadas apenas as informações sobre como realizar buscas na GETT.
@@ -293,6 +346,8 @@ Buscas são pequenas “missões pessoais”, feitas por PJs que almejam algo qu
 Uma personagem que decida fazer uma busca deve entrar em contato com uma Divindade ou um Narrador e informar sua intenção, agendando um horário que ambos estejam disponíveis para efetuar uma chamada de voz ou se dirigir para um dos canais de busca por texto. A PJ deve ter a mão suas perícias já sem os bônus situacionais anotados. Cada busca exige um custo de 1 PeA, independente de sucesso ou não. Ao começar uma busca, a pessoa jogadora deve informar o que está buscando, podendo ser dinheiro, item, qualquer um dos dois ou itens mágicos, esse último possuí regras mais específicas listadas mais à frente. 
 
 Informado o objetivo, a PJ deve realizar 3 testes de perícias de CD igual a 20 mais metade do nível de personagem (arredondado para baixo). Então, usar uma de suas perícias para realizar seu primeiro teste de busca e contar uma história que justifique a perícia escolhida. Após a realização do teste, a pessoa responsável (Divindade ou Narradore) escolhe a segunda perícia e continua a narrativa, por fim, rola-se 2d12 para definir a terceira e última perícia (com base na Tabela 6: Perícias de Buscas, abaixo) e a narrativa se encerra.
+
+#### Tabela 6: Perícias de Buscas
 | 2d12 | Perícia | Exemplo |
 | ---- | ---- | ---- |
 | 2 | Misticismo | Decifrar uma runa |
@@ -318,7 +373,6 @@ Informado o objetivo, a PJ deve realizar 3 testes de perícias de CD igual a 20 
 | 22 | Nobreza | Participar de um baile |
 | 23 | Religião | Entender um presságio |
 | 24 | Guerra | Atravessar um campo de batalha |
-| Tabela 6: Perícias de Buscas |
 
 A quantidade de sucessos obtidos determina o resultado da busca, caso obtenha dois sucessos, a busca foi bem sucedida e a personagem obteve o que queria, caso obtenha apenas um sucesso, não obtém nada e apenas gasta seu PeA, três sucessos significam que além do que buscava a PJ conseguiu uma recompensa extra definida aleatoriamente. 
 
@@ -349,12 +403,13 @@ Para pergaminhos, também faz a busca normalmente e obtém um total de 3 pergami
 
 ### Busca por itens Mágicos
 Em mesas convencionais, itens mágicos são controlados pela PN e fornecidos conforme ela desejar. Na GUILDA isso não ocorre, restando apenas as opções de serem fabricados por um Cambista ou encontrados em buscas. Para manter o equilíbrio, as buscas por itens mágicos seguem regras específicas. Para buscar um item mágico, deve-se informar exatamente que item busca para a pessoa responsável e obter uma série de sucessos, de acordo com o nível do item. Itens mágicos são raridade em Arton, sendo necessárias várias buscas para encontrar um exemplar. Além disso, os itens obtidos através de buscas devem ser pagos pela PJ em seu preço inteiro bem como um custo de PMs permanentes de acordo com o nível do item, conforme indicado na Tabela 7: Busca de Itens Mágicos, abaixo:
+
+#### Tabela 7: Busca de Itens Mágicos
 | Item | Nível Mínimo de Jogador | Quantidade de Sucessos | Custo de PM |
 | ---- | ---- | ---- | ---- |
 | Menor | 3 | 2 | 1 PM |
 | Médio | 9 | 4 | 2 PM |
 | Maior | 17 | 6 | 3 PM |
-| Tabela 7: Busca de Itens Mágicos |
 
 ### Busca por Encantamentos 
 
@@ -374,7 +429,7 @@ Esses negócios podem ser de todo tipo, de estalagens a laboratórios alquímico
 
 Para abrir um negócio, a PJ deve entrar em contato com uma das Divindades, justificando os motivos que levaram a querer abrir um empreendimento e porquê sua personagem teria um negócio. Nesse ponto, é importante contar uma história! Além de poderosos bonus numéricos, negócios precisam ter uma relação com o personagem em si e negócios sem esse desenvolvimento não serão aprovados. Caso sua justificativa seja válida, a responsável lhe dará aprovação para executar os testes. 
 
-Com a aprovação, a PJ deve se encaminhar à sala **Varejos Renner** e fazer um teste de Nobreza, pagando T$1000 e 2 PeA. Isso representa o tempo e trabalho necessários para reunir toda a papelada e resolver a burocracia que o reinado pede para permitir a atuação de sua nova empresa. O teste possui CD 20 e em caso de falha pode-se tentar novamente quantas vezes desejar, pagando T$1000 e 1 PeA adicionais, porém possuirá um bônus cumulativo de +1 no teste. Para cada falha anterior, o bônus é zerado após a obtenção de sucesso. 
+Com a aprovação, a PJ deve se encaminhar à sala **Varejos Renner** _e fazer um teste de Nobreza, pagando T$1000 e 2 PeA_. Isso representa o tempo e trabalho necessários para reunir toda a papelada e resolver a burocracia que o reinado pede para permitir a atuação de sua nova empresa. O **teste possui CD 20** e em caso de falha pode-se tentar novamente quantas vezes desejar, pagando _T$1000 e 1 PeA_ adicionais, porém possuirá um bônus cumulativo de +1 no teste. Para cada falha anterior, o bônus é zerado após a obtenção de sucesso. 
 
 Não é necessário ser treinado em Nobreza para abrir um negócio, a personagem pode contratar alguém para assumir essa função, permitindo que faça o teste como se fosse treinado (incluindo o bônus de treino). Porém, personagens não treinadas tem os custos, tanto de Dinheiro como de PeA dobrados (T$2000 e 4 PeA na primeira tentativa mais T$2000 e 2 PeA por cada tentativa extra). Bardos podem utilizar o poder Eclético para fazer os testes como se fossem treinados, nesse caso a CD aumenta em +2 e devem gastar os PM da ativação, que só poderão ser recuperados durante sua próxima missão. As rolagens devem ser supervisionadas por alguma Divindade, que deve ser contatado antes da rolagem ser efetuada.
 
@@ -388,6 +443,8 @@ Independentemente de quais ativos o negócio possuir, ele gerará lucro com o pa
 
 ### Ativos
 Todo negócio possui uma finalidade ou área de atuação, a isso damos o nome de ativos. O ativo é o que determina sobre o que se trata seu negócio, pode ser uma taverna, uma oficina, uma arena, dentre outros tipos de empresas que possam existir. Em termos de regras, cada ativo fornece um bônus específico para sua PJ. Ao criar seu negócio e a cada vez que subir o nível do negócio, deve-se escolher um novo ativo, que representa sua expansão, um novo ramo de atuação ou até um novo negócio separado do já existente (descrição fica a cargo da PJ). Assim, um negócio de 7º nível poderá ter 7 ativos diferentes, não é possível escolher o mesmo ativo mais de uma vez, a menos que especificado no ativo. Bônus fornecidos por negócios acumulam com quaisquer outras fontes, exceto com eles mesmos. A Tabela 8: Ativos de Negócios, lista os tipos de ativos e os bônus fornecidos.
+
+#### Tabela 8: Ativos de Negócios
 | Ativo | Descrição | Efeito |
 | ---- | ---- | ---- |
 | Academia | Esta invenção dos minotauros está se tornando mais comum no Reinado. A maioria des valkarianes ainda não vê sentido em ficar fazendo força em máquinas que mais parecem instrumentos de tortura. | +1 em rolagens de dano corpo-a-corpo. |
@@ -416,9 +473,8 @@ Todo negócio possui uma finalidade ou área de atuação, a isso damos o nome d
 | Salão Comunal | Um grande salão, com mesas e cadeiras para beber e comemorar. Reúne todo tipo de gente e o burburinho das pessoas camufla as conversas que devem ser feitas em sussurros. | +2 em Investigação. |
 | Salão de Marah | Marah é a Deusa do Amor - e é justamente isso que os lugares que levam seu nome oferecem (ou é pelo menos o simulacro que pode ser comprado). Uma visita a um desses salões deixa qualquer aventureire mais disposte para aventuras. | 4 PM temporários no início de cada missão. |
 | Santuário | Este lugar sagrado permite que ume devote entre em comunhão com sua divindade, aumentando seu vínculo com ela. | +2 em Religião. |
-| Tabela 8: Ativos de Negócios |
 
 ### Restrição e Mudanças 
 Bônus fornecidos por negócios só podem ser aplicados em aventuras e fabricação de itens. É proibido utilizar os bônus em buscas. 
 
-Uma personagem que deseje trocar um ativo antigo deve gastar 1 PeA e um valor igual a T$1000 x nível do negócio. Por exemplo um personagem com 6 ativos deve pagar T$6000 e 1 PeA para retreinar um ativo.
+Uma personagem que deseje trocar um ativo antigo deve gastar 1 PeA e um valor igual a 1000 x nível do negócio. Por exemplo um personagem com 6 ativos deve pagar T$6000 e 1 PeA para retreinar um ativo.
