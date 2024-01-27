@@ -12,8 +12,7 @@
 - [Narradories](#narradories)
 - [Como Narrar na Guilda](#como-narrar-na-guilda)
 - [Utilizando o Canon](#utilizando-o-canon)
-
-[Recompensas](#recompensa)
+[Recompensa](#recompensa)
 - [Achados e Espólios](#achados-e-espólios)
 - [Pontos entre Aventuras](#pontos-entre-aventuras)
 - [Pontos de Narração](#pontos-de-narração)
@@ -55,6 +54,7 @@
 
 Cada PJ pode ter no máximo 2 personagens, quando o primeiro personagem chega ao nível 8, o PJ pode ter um segundo personagem, seguindo as mesmas regras descritas acima. Contudo os personagens não podem trocar presentes ou itens entre si. 
 Além disso, se um PN tiver dois personagens, as recompensas de uma missão narrada por ele vão sempre para o personagem de menor nível. 
+
 
 ### Materiais de consulta
 
@@ -149,6 +149,7 @@ Esses valores devem ser divididos entre o número de personagens que realizaram 
 | 18 | 19800 XP / T$ 18480 | 21780 XP / T$ 20328 | 23760 XP / T$ 22066 |
 | 19 | 20900 XP / T$ 20240 | 22990 XP / T$ 22264 | 25080 XP / T$ 24288 |
 | 20 | T$ 22000 | T$ 24200 | T$ 26400 |
+
 
 A ficha atualizada com os valores de XP e T$ deve ser enviada em 𝓒𝓮𝓐, no seu devido Post. 
 PJs de ND 20, entretanto, recebem 2 PeA, já que não possuem mais uso para o ganho de XP.
