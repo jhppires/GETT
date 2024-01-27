@@ -179,6 +179,7 @@ Abaixo você pode verificar os usos para os seus PeAs, lembrando que os benefíc
 | 1 PeA | Aumentar o Nível de um Negócio |
 | 1 PeA | Retreinar um Ativo de Negócio |
 | 1 PeA | Treinamento para ganho de habilidade |
+| 1 PeA | 1 Semana de para testes de Sustento ( Regra base T20 ) |
 | 1+ PeA | Fabricar 1+ itens |
 | 2+ PeA | Abrir um Negócio |
 | 3 PeA | Retreinar 1 Nível inteiro de Classe |
