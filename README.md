@@ -5,21 +5,20 @@
 [Criação de Personagem](#criação-de-personagem)
 - [Equipamento](#equipamento)
 - [Histórico](#histórico)
-- [Avaliação de ficha](#avaliação-de-ficha)
+- [Avaliação de Ficha](#avaliação-de-ficha)
 
 [Missões](#missoes)
 - [Regras de Missões](#regras-de-missões)
 - [Narradories](#narradories)
 - [Como Narrar na Guilda](#como-narrar-na-guilda)
 - [Utilizando o Canon](#utilizando-o-canon)
-
 [Recompensa](#recompensa)
 - [Achados e Espólios](#achados-e-espólios)
 - [Pontos entre Aventuras](#pontos-entre-aventuras)
 - [Pontos de Narração](#pontos-de-narração)
 
 [Itens e Comércio](#itens-e-comércio)
-- [Comércio entre jogadories](#comércio-entre-jogadories)
+- [Comércio entre Jogadories](#comércio-entre-jogadories)
 - [Fabricação de Itens](#fabricação-de-itens)
 - [Limites do Mercado](#limites-do-mercado)
 
@@ -53,8 +52,9 @@
 
 	"Gett good com a Guilda Empreendimentos Tuc-Tuc"
 
-Cada PJ pode ter no máximo 2 personagens, quando o primeiro personagem chega a nível 8 o PJ ganha o direito de ter um segundo personagem, seguindo as mesmas regras descritas acima. Contudo os personagens não podem trocar presentes ou itens entre si. 
-Por ultimo, se um PN tiver dois personagens, as recompensas de uma missão narrada por ele vão sempre para o personagem de menor nível. 
+Cada PJ pode ter no máximo 2 personagens, quando o primeiro personagem chega ao nível 8, o PJ pode ter um segundo personagem, seguindo as mesmas regras descritas acima. Contudo os personagens não podem trocar presentes ou itens entre si. 
+Além disso, se um PN tiver dois personagens, as recompensas de uma missão narrada por ele vão sempre para o personagem de menor nível. 
+
 
 ### Materiais de consulta
 
@@ -129,26 +129,26 @@ Cada missão concede recompensas em Pontos de experiência e tibares (moeda de A
 Esses valores devem ser divididos entre o número de personagens que realizaram a missão:			
 | ND | Normal           | +10%             | +20%             |
 |----|------------------|------------------|------------------|
-| 1  | 1100XP / 484T$   | 1210XP / 484T$   | 1320XP / 528T$   |
-| 2  | 2200XP / 550T$   | 2420XP / 605T$   | 2640XP / 660T$   |
-| 3  | 3300XP / 660T$   | 3630XP / 726T$   | 3960XP / 792T$   |
-| 4  | 4400XP / 1320T$  | 4840XP / 1452T$  | 5280XP / 1584T$  |
-| 5  | 5500XP / 2200T$  | 6050XP / 2420T$  | 6600XP / 2640T$  |
-| 6  | 6600XP / 3080T$  | 7260XP / 3388T$  | 7920XP / 3696T$  |
-| 7  | 7700XP / 3960T$  | 8470XP / 4356T$  | 9240XP / 4752T$  |
-| 8  | 8800XP / 4840T$  | 9680XP / 5324T$  | 10560XP / 5808T$ |
-| 9  | 9900XP / 5720T$  | 10890XP / 6292T$ | 11880XP / 6864T$ |
-| 10 | 11000XP / 6600T$ | 12100XP / 7260T$ | 13200XP / 7920T$ |
-| 11 | 12100XP / 7920T$ | 13310XP / 8712T$ | 14520XP / 9504T$ |
-| 12 | 13200XP / 9240T$ | 14520XP / 10164T$| 15840XP / 11088T$|
-| 13 | 14300XP / 10560T$| 15730XP / 11616T$| 17160XP / 12672T$|
-| 14 | 15400XP / 11880T$| 17380XP / 13068T$| 18480XP / 14256T$|
-| 15 | 16500XP / 13200T$| 18150XP / 14520T$| 19800XP / 15840T$|
-| 16 | 17600XP / 14960T$| 19360XP / 16456T$| 21120XP / 17952T$|
-| 17 | 18700XP / 16720T$| 20570XP / 18392T$| 22440XP / 20064T$|
-| 18 | 19800XP / 18480T$| 21780XP / 20328T$| 23760XP / 22066T$|
-| 19 | 20900XP / 20240T$| 22990XP / 22264T$| 25080XP / 24288T$|
-| 20 | ------- / 22000T$| ------- / 24200T$| ------- / 26400T$|
+| 1  | 1100 XP / T$ 484   | 1210 XP / T$ 484   | 1320 XP / T$ 528   |
+| 2  | 2200 XP / T$ 550   | 2420 XP / T$ 605   | 2640 XP / T$ 660   |
+| 3  | 3300 XP / T$ 660   | 3630 XP / T$ 726   | 3960 XP / T$ 792   |
+| 4  | 4400 XP / T$ 1320  | 4840 XP / T$ 1452  | 5280 XP / T$ 1584  |
+| 5  | 5500 XP / T$ 2200  | 6050 XP / T$ 2420  | 6600 XP / T$ 2640  |
+| 6  | 6600 XP / T$ 3080  | 7260 XP / T$ 3388  | 7920 XP / T$ 3696  |
+| 7  | 7700 XP / T$ 3960  | 8470 XP / T$ 4356  | 9240 XP / T$ 4752  |
+| 8  | 8800 XP / T$ 4840  | 9680 XP / T$ 5324  | 10560 XP / T$ 5808 |
+| 9  | 9900 XP / T$ 5720  | 10890 XP / T$ 6292 | 11880 XP / T$ 6864 |
+| 10 | 11000 XP / T$ 6600 | 12100 XP / T$ 7260 | 13200 XP / T$ 7920 |
+| 11 | 12100 XP / T$ 7920 | 13310 XP / T$ 8712 | 14520 XP / T$ 9504 |
+| 12 | 13200 XP / T$ 9240 | 14520 XP / T$ 10164 | 15840 XP / T$ 11088 |
+| 13 | 14300 XP / T$ 10560 | 15730 XP / T$ 11616 | 17160 XP / T$ 12672 |
+| 14 | 15400 XP / T$ 11880 | 17380 XP / T$ 13068 | 18480 XP / T$ 14256 |
+| 15 | 16500 XP / T$ 13200 | 18150 XP / T$ 14520 | 19800 XP / T$ 15840 |
+| 16 | 17600 XP / T$ 14960 | 19360 XP / T$ 16456 | 21120 XP / T$ 17952 |
+| 17 | 18700 XP / T$ 16720 | 20570 XP / T$ 18392 | 22440 XP / T$ 20064 |
+| 18 | 19800 XP / T$ 18480 | 21780 XP / T$ 20328 | 23760 XP / T$ 22066 |
+| 19 | 20900 XP / T$ 20240 | 22990 XP / T$ 22264 | 25080 XP / T$ 24288 |
+| 20 | T$ 22000 | T$ 24200 | T$ 26400 |
 
 
 A ficha atualizada com os valores de XP e T$ deve ser enviada em 𝓒𝓮𝓐, no seu devido Post. 
