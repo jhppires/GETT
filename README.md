@@ -211,6 +211,8 @@ Há várias maneiras de comprar, receber e encontrar itens participando da GETT,
 
 Membres da Guilda podem anunciar suas mercadorias no canal **Varejos Renner**. Todas as transações devem ser lançadas no chat por todas as partes envolvidas no comércio. O preço de venda de um item é limitado ao mínimo de 75% e máximo de 100% de seu preço total. Itens vendidos para NPCs valem 50% do seu preço, exceto se a personagem possuir alguma habilidade que altere esse valor (uso da perícia Diplomacia para barganhar não é aceito, mas o poder Comerciante, de Inventor, sim).
 
+Em algumas situações os PJ podem não se sentir habilitados a fazer uma busca, para resolver isso eles podem contratar um ou PJ para fazer essa busca, nesse caso perder o PeA normalmente gasto e deve pagar para o outro PJ um valor igual de 80T$x nivel de personagem a ele. 
+
 ### Fabricação de Itens
 
 O tempo de fabricação de um item é baseado em tipo, seguindo as regras da perícia Oficio. Para fabricar um ou mais itens, a PJ deve gastar 1 PeA. Cada dia de serviço é contabilizado como sendo composto por 8 horas de trabalho, mesmo que o personagem seja de uma raça que não precise descansar. É permitido o uso de poderes e magias que auxiliem no teste de fabricação, porém deverá gastar os PM equivalentes ao uso do poder e começará sua próxima missão sem tê-los recuperado, sendo necessário recuperá-los em missão. 
