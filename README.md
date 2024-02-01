@@ -185,8 +185,8 @@ Abaixo você pode verificar os usos para os seus PeAs, lembrando que os benefíc
 | 1 PeA | Fazer uma Busca |
 | 1 PeA | Aumentar o Nível de um Negócio |
 | 1 PeA | Retreinar um Ativo de Negócio |
-| 1 PeA | Treinamento para ganho de habilidade |
-| 1 PeA | 1 Semana de para testes de Sustento ( Regra base T20 ) |
+| 1 PeA | Treinar uma habilidade do próximo nível |
+| 1 PeA | 1 Semana de Sustento ( Regra base T20 ) |
 | 1+ PeA | Fabricar 1+ itens |
 | 2+ PeA | Abrir um Negócio |
 | 3 PeA | Retreinar 1 Nível inteiro de Classe |
@@ -214,13 +214,13 @@ A PN pode, também, abdicar de toda ou parte de sua recompensa caso deseje.
 
 ## Itens e Comércio
 
-Há várias maneiras de comprar, receber e encontrar itens participando da GETT, desde itens comuns à superiores. Comprando de NPCs, fazendo buscas e até encomendando de PJs. Itens comuns da Tabela T3-5: Itens e Serviços, presentes no livro básico de TORMENTA20, podem ser comprados livremente nos mercados da cidade. Sendo necessário apenas registrar as transações no canal **Varejos Renner**. Itens Superiores, com um ou mais aprimoramentos, podem ser construídos por Membres da Guilda que possua a perícia Ofício adequada ou obtidos em Buscas. Apenas itens presentes no capítulo de equipamentos podem ser aprimorados. O aprimoramento deve fazer sentido com o item, sujeito à aprovação de uma Divindade. Itens Mágicos só podem ser obtidos através da mecânica de buscas, explicada mais a frente nesse manual.
+Há várias maneiras de comprar, receber e encontrar itens participando da GETT, desde itens comuns à superiores. Comprando de NPCs, fazendo buscas e até encomendando de PJs. Itens comuns da Tabela T3-5: Itens e Serviços, presentes no livro básico de TORMENTA20, podem ser comprados livremente nos mercados da cidade. Sendo necessário apenas registrar as transações no canal **Varejos Renner**. Itens Superiores, com um ou mais aprimoramentos, podem ser construídos por Membres da Guilda que possuam Classes e a perícia Ofício adequadas ou obtidos em Buscas. Apenas itens presentes no capítulo de equipamentos podem ser aprimorados. O aprimoramento deve fazer sentido com o item, sujeito à aprovação de uma Divindade. Itens Mágicos só podem ser obtidos através da mecânica de buscas, explicada mais a frente nesse manual.
 
 ### Comércio entre jogadories
 
 Membres da Guilda podem anunciar suas mercadorias no canal **Varejos Renner**. Todas as transações devem ser lançadas no chat por todas as partes envolvidas no comércio. O preço de venda de um item é limitado ao mínimo de 75% e máximo de 100% de seu preço total. Itens vendidos para NPCs valem 50% do seu preço, exceto se a personagem possuir alguma habilidade que altere esse valor (uso da perícia Diplomacia para barganhar não é aceito, mas o poder Comerciante, de Inventor, sim).
 
-Em algumas situações os PJ podem não se sentir habilitados a fazer uma busca, para resolver isso eles podem contratar um ou PJ para fazer essa busca, nesse caso perder o PeA normalmente gasto e deve pagar para o outro PJ um valor igual de 80T$x nivel de personagem a ele. 
+Em algumas situações os PJ podem não se sentir habilitados a fazer uma busca, para resolver isso eles podem contratar um outro PJ para fazer essa busca, nesse caso gastam o PeA normalmente e devem pagar para o outro PJ um valor igual de T$80 x Seu nível de personagem. 
 
 ### Fabricação de Itens
 
