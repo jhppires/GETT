@@ -12,6 +12,8 @@
 - [Narradories](#narradories)
 - [Como Narrar na Guilda](#como-narrar-na-guilda)
 - [Utilizando o Canon](#utilizando-o-canon)
+- [Missão de Penitência](#missão-de-penitência)
+
 [Recompensa](#recompensa)
 - [Achados e Espólios](#achados-e-espólios)
 - [Pontos entre Aventuras](#pontos-entre-aventuras)
@@ -74,10 +76,10 @@ Apesar do livro básico ser a principal fonte, alguns materiais extras são perm
 | DB 181 | Poderes de Magia e elementais Parte 1 |
 | DB 182 | Poderes de Magia e elementais Parte 2 |
 | DB 190 | Poderes de Lutador e escolas de Combate |
-| DB 191 | Classe Místico |
 | DB 192 | Poderes de Caçador |
 | DB 195 | Poderes de Bucaneiro e Nobre |
 | DB 198 | Poderes de Bárbaro e Inventor |
+| DB 199 | Classes: Miragem, Místico e Samurai |
 | Distinções para Tormenta 20 | LEIA O LIVRO |
 
 ### Equipamento
@@ -118,6 +120,11 @@ Com sua Missão aprovada, você enquanto Narradore, deve publicar sua missão, c
 ### Utilizando o Canon
 
 Não mexa no Canon. Contudo, aventuras de nível campeão ou maior (nivel 11 ou maior) podem fazer alterações pela sua fama descomunal, mas isso necessita da aprovação das Divindades.
+
+### Missão de Penitência
+
+Um Personagem que, por qualquer motivo, deixe de cumprir com as obrigações e restrições de sua divindade, perde seus PMs e poderes concedidos e para recuperar estes, precisará fazer uma missão de Penitência. A missão pode ser narrada por qualquer PN (sendo divindade ou não) e funcionará como uma missão normal, com o diferencial que será uma missão solo, apenas com o jogador que precisa realizar a Penitência. Se a PN considerar que a penitência foi bem sucedida, a PJ recebe seus poderes concedidos novamente e pode recuperar seus PMs normalmente. Porém, se a PN considerar que a penitência foi mal sucedida, a PJ terá que fazer outra missão de penitência, repetindo até ser bem sucedida.
+Além disso, ao realizar uma missão de Penitência, tanto a PN quanto a PJ recebem o XP e os PeA ou PdN normalmente, como se a missão tivesse sido realizada por 4 jogadores. Porém, apenas a PN receberá o valor em dinheiro da missão.
 
 ## Recompensa
 
