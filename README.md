@@ -218,7 +218,7 @@ Há várias maneiras de comprar, receber e encontrar itens participando da GETT,
 
 ### Comércio entre jogadories
 
-Membres da Guilda podem anunciar suas mercadorias no canal **Varejos Renner**. Todas as transações devem ser lançadas no chat por todas as partes envolvidas no comércio. O preço de venda de um item é limitado ao mínimo de 75% e máximo de 100% de seu preço total. Itens vendidos para NPCs valem 50% do seu preço, exceto se a personagem possuir alguma habilidade que altere esse valor (uso da perícia Diplomacia para barganhar não é aceito, mas o poder Comerciante, de Inventor, sim).
+Membres da Guilda podem anunciar suas mercadorias no canal **Varejos Renner**. Todas as transações devem ser lançadas no chat por todas as partes envolvidas no comércio. O preço de venda de um item é limitado ao mínimo de 70% e máximo de 100% de seu preço total. Itens vendidos para NPCs valem 50% do seu preço, exceto se a personagem possuir alguma habilidade que altere esse valor (uso da perícia Diplomacia para barganhar não é aceito, mas o poder Comerciante, de Inventor, sim).
 
 Em algumas situações os PJ podem não se sentir habilitados a fazer uma busca, para resolver isso eles podem contratar um outro PJ para fazer essa busca, nesse caso gastam o PeA normalmente e devem pagar para o outro PJ um valor igual de T$80 x Seu nível de personagem. 
 
@@ -234,9 +234,14 @@ O consumo de 1 PeA gera uma semana de trabalho, contudo conforme o patamar do pe
 | Campeão | 3 Semana |
 | Lenda | 1 Mês |
 
-PJs podem fazer pedidos a algum membre da GETT proficiente no ofício requerido do item desejado, desse modo movimentando o mercado interno da guilda, mas isso também tem suas vantagens para ambos os lados do acordo. PJs que façam requisição de itens devem gastar o seu PeA para a produção, assim pode prestar um teste de ajuda ao PJ produtor na hora do teste de oficio. O preço de produção do item deve ser acertado entre os PJs, mas pode ser no maximo 90% do preço de tabela, assim todos os lados saem ganhando com a transação.
+PJs podem fazer pedidos a algum membre da GETT proficiente no ofício requerido do item desejado, desse modo movimentando o mercado interno da guilda, mas isso também tem suas vantagens para ambos os lados do acordo. PJs que façam requisição de itens devem gastar o seu PeA para a produção, assim pode prestar um teste de ajuda ao PJ produtor na hora do teste de oficio. O preço de produção do item deve ser acertado entre os PJs, mas pode ser no maximo 90% do preço de tabela, assim todos os lados saem ganhando com a transação _(sobrepondo a regra escrita acima)_.
+
 Na fabricação de itens permanentes, é possível assumir um redutor de -5 para se fabricar um item permanente adicional no mesmo PeA, esse redutor pode ser acumulado para se fazer itens adicionais (-10 para dois itens adicionais, -15 para três itens e assim sucessivamente). 
+
 É vedado a compra de serviços de magia para auxílio nos testes de fabricação. Poções podem ser utilizadas, mas apenas poções fabricadas pela pessoa que vai fazer o teste, sem poções compradas de terceiros. Todos os testes devem ser feitos no canal **Varejos Renner**, e avaliados por uma Divindade. Quaisquer itens feitos em uma sessão de fabricação só podem ser adicionados ao inventario após a conclusão da transação.
+
+### Ofícios Treinados e Produção de itens consumiveis 
+Aqueles PJs que têm ofícios treinados (como alquimia ou escriba), tem o direito a **Dias x Int** antes de cada missão para produção de itens consumíveis como preparação para suas aventuras. Ainda têm que pagar o custo em T$, contudo você recupera os PMs exigidos na produção do item antes da próxima missão. Com exceção dos PMs gastos com habilidades, essas devem ser recuperadas a partir do início da próxima missão.
 
 ### Limites do Mercado
 
