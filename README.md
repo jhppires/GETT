@@ -187,7 +187,7 @@ Abaixo você pode verificar os usos para os seus PeAs, lembrando que os benefíc
 | 1 PeA | Retreinar um Ativo de Negócio |
 | 1 PeA | Treinar uma habilidade do próximo nível |
 | 1 PeA | 1 Semana de Sustento ( Regra base T20 ) |
-| 1+ PeA | Fabricar 1+ itens |
+| 1+ PeA | 1 Semana para fabricar itens permantens (pode ser acumulado) |
 | 2+ PeA | Abrir um Negócio |
 | 3 PeA | Retreinar 1 Nível inteiro de Classe |
 | 4+ PeA | Tornar-se um Médico de Sallistick |
@@ -224,7 +224,17 @@ Em algumas situações os PJ podem não se sentir habilitados a fazer uma busca,
 
 ### Fabricação de Itens
 
-O tempo de fabricação de um item é baseado em tipo, seguindo as regras da perícia Oficio. Para fabricar um ou mais itens, a PJ deve gastar 1 PeA. Cada dia de serviço é contabilizado como sendo composto por 8 horas de trabalho, mesmo que o personagem seja de uma raça que não precise descansar. É permitido o uso de poderes e magias que auxiliem no teste de fabricação, porém deverá gastar os PM equivalentes ao uso do poder e começará sua próxima missão sem tê-los recuperado, sendo necessário recuperá-los em missão. 
+O tempo de fabricação de um item é baseado em tipo, seguindo as regras da perícia Oficio. Para fabricar um ou mais itens, a PJ deve gastar 1 PeA e o custo em T$. Cada dia de serviço é contabilizado como sendo composto por 8 horas de trabalho, mesmo que o personagem seja de uma raça que não precise descansar. É permitido o uso de poderes e magias que auxiliem no teste de fabricação, porém deverá gastar os PM equivalentes ao uso do poder e começará sua próxima missão sem tê-los recuperado, sendo necessário recuperá-los em missão.
+O consumo de 1 PeA gera uma semana de trabalho, contudo conforme o patamar do personagem subir ele consegue mais tempo livre entre aventuras. Segue a tabela:
+
+| Patamar | Tempo por PeA |
+| ---- | ---- |
+| Iniciante | 1 Semana |
+| Veterano | 2 Semana |
+| Campeão | 3 Semana |
+| Lenda | 1 Mês |
+
+PJs podem fazer pedidos a algum membre da GETT proficiente no ofício requerido do item desejado, desse modo movimentando o mercado interno da guilda, mas isso também tem suas vantagens para ambos os lados do acordo. PJs que façam requisição de itens devem gastar o seu PeA para a produção, assim pode prestar um teste de ajuda ao PJ produtor na hora do teste de oficio. O preço de produção do item deve ser acertado entre os PJs, mas pode ser no maximo 90% do preço de tabela, assim todos os lados saem ganhando com a transação.
 Na fabricação de itens permanentes, é possível assumir um redutor de -5 para se fabricar um item permanente adicional no mesmo PeA, esse redutor pode ser acumulado para se fazer itens adicionais (-10 para dois itens adicionais, -15 para três itens e assim sucessivamente). 
 É vedado a compra de serviços de magia para auxílio nos testes de fabricação. Poções podem ser utilizadas, mas apenas poções fabricadas pela pessoa que vai fazer o teste, sem poções compradas de terceiros. Todos os testes devem ser feitos no canal **Varejos Renner**, e avaliados por uma Divindade. Quaisquer itens feitos em uma sessão de fabricação só podem ser adicionados ao inventario após a conclusão da transação.
 
